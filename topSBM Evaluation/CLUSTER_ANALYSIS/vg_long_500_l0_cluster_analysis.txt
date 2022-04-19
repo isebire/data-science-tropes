@@ -1,0 +1,861 @@
+Number of clusters: 
+37
+
+#### CLUSTER 1 ####
+Items in cluster: 8
+Items with predefined genre: 8
+role-playing-games-rpg : 7 (87.5 %)
+massively-multiplayer : 2 (25.0 %)
+action : 4 (50.0 %)
+strategy : 2 (25.0 %)
+adventure : 1 (12.5 %)
+Items with country: 5
+JP : 3 (60.0 %)
+US : 3 (60.0 %)
+TR : 1 (20.0 %)
+BR : 1 (20.0 %)
+MX : 1 (20.0 %)
+DE : 1 (20.0 %)
+RU : 1 (20.0 %)
+IN : 1 (20.0 %)
+AU : 1 (20.0 %)
+CN : 1 (20.0 %)
+TW : 1 (20.0 %)
+KR : 1 (20.0 %)
+GB : 1 (20.0 %)
+IE : 1 (20.0 %)
+shows 
+
+#### CLUSTER 2 ####
+Items in cluster: 6
+Items with predefined genre: 6
+action : 6 (100.0 %)
+racing : 1 (16.666666666666664 %)
+arcade : 1 (16.666666666666664 %)
+shooter : 2 (33.33333333333333 %)
+casual : 1 (16.666666666666664 %)
+massively-multiplayer : 1 (16.666666666666664 %)
+strategy : 1 (16.666666666666664 %)
+simulation : 1 (16.666666666666664 %)
+indie : 1 (16.666666666666664 %)
+platformer : 2 (33.33333333333333 %)
+Items with country: 5
+US : 4 (80.0 %)
+GB : 1 (20.0 %)
+action shows 
+
+#### CLUSTER 3 ####
+Items in cluster: 8
+Items with predefined genre: 8
+action : 7 (87.5 %)
+role-playing-games-rpg : 8 (100.0 %)
+shooter : 3 (37.5 %)
+adventure : 1 (12.5 %)
+Items with country: 8
+CA : 5 (62.5 %)
+US : 5 (62.5 %)
+role-playing-games-rpg shows 
+
+#### CLUSTER 4 ####
+Items in cluster: 4
+Items with predefined genre: 4
+action : 2 (50.0 %)
+role-playing-games-rpg : 4 (100.0 %)
+strategy : 2 (50.0 %)
+adventure : 1 (25.0 %)
+Items with country: 4
+CA : 3 (75.0 %)
+US : 2 (50.0 %)
+role-playing-games-rpg shows 
+
+#### CLUSTER 5 ####
+Items in cluster: 5
+Items with predefined genre: 5
+action : 2 (40.0 %)
+adventure : 2 (40.0 %)
+role-playing-games-rpg : 5 (100.0 %)
+indie : 1 (20.0 %)
+Items with country: 5
+US : 2 (40.0 %)
+JP : 4 (80.0 %)
+role-playing-games-rpg shows 
+
+#### CLUSTER 6 ####
+Items in cluster: 12
+Items with predefined genre: 11
+role-playing-games-rpg : 10 (90.9090909090909 %)
+adventure : 2 (18.181818181818183 %)
+platformer : 1 (9.090909090909092 %)
+Items with country: 11
+JP : 10 (90.9090909090909 %)
+US : 4 (36.36363636363637 %)
+FR : 1 (9.090909090909092 %)
+shows 
+
+#### CLUSTER 7 ####
+Items in cluster: 14
+Items with predefined genre: 14
+role-playing-games-rpg : 14 (100.0 %)
+strategy : 3 (21.428571428571427 %)
+action : 3 (21.428571428571427 %)
+adventure : 3 (21.428571428571427 %)
+Items with country: 12
+US : 8 (66.66666666666666 %)
+CA : 3 (25.0 %)
+PL : 2 (16.666666666666664 %)
+role-playing-games-rpg shows 
+
+#### CLUSTER 8 ####
+Items in cluster: 15
+Items with predefined genre: 13
+action : 7 (53.84615384615385 %)
+adventure : 5 (38.46153846153847 %)
+role-playing-games-rpg : 9 (69.23076923076923 %)
+platformer : 1 (7.6923076923076925 %)
+simulation : 1 (7.6923076923076925 %)
+indie : 2 (15.384615384615385 %)
+strategy : 1 (7.6923076923076925 %)
+Items with country: 12
+JP : 11 (91.66666666666666 %)
+US : 2 (16.666666666666664 %)
+GB : 1 (8.333333333333332 %)
+shows 
+
+#### CLUSTER 9 ####
+Items in cluster: 10
+Items with predefined genre: 9
+role-playing-games-rpg : 7 (77.77777777777779 %)
+massively-multiplayer : 3 (33.33333333333333 %)
+action : 3 (33.33333333333333 %)
+shooter : 2 (22.22222222222222 %)
+adventure : 3 (33.33333333333333 %)
+Items with country: 8
+NO : 1 (12.5 %)
+US : 4 (50.0 %)
+CA : 1 (12.5 %)
+GB : 1 (12.5 %)
+NL : 1 (12.5 %)
+shows 
+
+#### CLUSTER 10 ####
+Items in cluster: 18
+Items with predefined genre: 17
+action : 17 (100.0 %)
+shooter : 7 (41.17647058823529 %)
+adventure : 10 (58.82352941176471 %)
+role-playing-games-rpg : 1 (5.88235294117647 %)
+platformer : 1 (5.88235294117647 %)
+Items with country: 16
+JP : 10 (62.5 %)
+US : 10 (62.5 %)
+CN : 6 (37.5 %)
+SG : 6 (37.5 %)
+GB : 8 (50.0 %)
+PL : 1 (6.25 %)
+SE : 2 (12.5 %)
+action shows 
+
+#### CLUSTER 11 ####
+Items in cluster: 23
+Items with predefined genre: 20
+action : 13 (65.0 %)
+arcade : 4 (20.0 %)
+casual : 2 (10.0 %)
+fighting : 3 (15.0 %)
+indie : 3 (15.0 %)
+platformer : 8 (40.0 %)
+shooter : 3 (15.0 %)
+adventure : 7 (35.0 %)
+racing : 1 (5.0 %)
+role-playing-games-rpg : 1 (5.0 %)
+family : 1 (5.0 %)
+Items with country: 21
+JP : 18 (85.71428571428571 %)
+US : 9 (42.857142857142854 %)
+CA : 1 (4.761904761904762 %)
+shows 
+
+#### CLUSTER 12 ####
+Items in cluster: 23
+Items with predefined genre: 22
+action : 13 (59.09090909090909 %)
+role-playing-games-rpg : 20 (90.9090909090909 %)
+massively-multiplayer : 3 (13.636363636363635 %)
+strategy : 6 (27.27272727272727 %)
+simulation : 1 (4.545454545454546 %)
+indie : 3 (13.636363636363635 %)
+adventure : 1 (4.545454545454546 %)
+Items with country: 18
+US : 13 (72.22222222222221 %)
+JP : 8 (44.44444444444444 %)
+SE : 1 (5.555555555555555 %)
+AT : 1 (5.555555555555555 %)
+DE : 1 (5.555555555555555 %)
+CA : 2 (11.11111111111111 %)
+RU : 1 (5.555555555555555 %)
+BE : 1 (5.555555555555555 %)
+MY : 1 (5.555555555555555 %)
+IE : 1 (5.555555555555555 %)
+GB : 1 (5.555555555555555 %)
+shows 
+
+#### CLUSTER 13 ####
+Items in cluster: 16
+Items with predefined genre: 8
+strategy : 3 (37.5 %)
+arcade : 1 (12.5 %)
+role-playing-games-rpg : 3 (37.5 %)
+fighting : 1 (12.5 %)
+action : 1 (12.5 %)
+Items with country: 9
+US : 5 (55.55555555555556 %)
+JP : 8 (88.88888888888889 %)
+shows 
+
+#### CLUSTER 14 ####
+Items in cluster: 11
+Items with predefined genre: 10
+role-playing-games-rpg : 8 (80.0 %)
+action : 5 (50.0 %)
+adventure : 2 (20.0 %)
+platformer : 2 (20.0 %)
+indie : 1 (10.0 %)
+Items with country: 10
+JP : 9 (90.0 %)
+CN : 1 (10.0 %)
+SG : 1 (10.0 %)
+GB : 1 (10.0 %)
+US : 2 (20.0 %)
+shows 
+
+#### CLUSTER 15 ####
+Items in cluster: 10
+Items with predefined genre: 10
+strategy : 10 (100.0 %)
+role-playing-games-rpg : 7 (70.0 %)
+Items with country: 10
+JP : 10 (100.0 %)
+strategy shows from JP 
+
+#### CLUSTER 16 ####
+Items in cluster: 19
+Items with predefined genre: 18
+action : 16 (88.88888888888889 %)
+shooter : 16 (88.88888888888889 %)
+adventure : 3 (16.666666666666664 %)
+puzzle : 4 (22.22222222222222 %)
+role-playing-games-rpg : 6 (33.33333333333333 %)
+platformer : 3 (16.666666666666664 %)
+Items with country: 18
+JP : 1 (5.555555555555555 %)
+DE : 1 (5.555555555555555 %)
+CA : 7 (38.88888888888889 %)
+CN : 1 (5.555555555555555 %)
+UA : 1 (5.555555555555555 %)
+US : 16 (88.88888888888889 %)
+GB : 1 (5.555555555555555 %)
+FI : 1 (5.555555555555555 %)
+shows 
+
+#### CLUSTER 17 ####
+Items in cluster: 13
+Items with predefined genre: 11
+role-playing-games-rpg : 11 (100.0 %)
+action : 3 (27.27272727272727 %)
+adventure : 1 (9.090909090909092 %)
+Items with country: 12
+JP : 12 (100.0 %)
+US : 2 (16.666666666666664 %)
+role-playing-games-rpg shows from JP 
+
+#### CLUSTER 18 ####
+Items in cluster: 15
+Items with predefined genre: 12
+role-playing-games-rpg : 12 (100.0 %)
+action : 6 (50.0 %)
+fighting : 1 (8.333333333333332 %)
+adventure : 1 (8.333333333333332 %)
+strategy : 1 (8.333333333333332 %)
+Items with country: 12
+JP : 8 (66.66666666666666 %)
+CA : 1 (8.333333333333332 %)
+US : 7 (58.333333333333336 %)
+CN : 1 (8.333333333333332 %)
+SG : 1 (8.333333333333332 %)
+GB : 1 (8.333333333333332 %)
+role-playing-games-rpg shows 
+
+#### CLUSTER 19 ####
+Items in cluster: 9
+Items with predefined genre: 9
+action : 9 (100.0 %)
+adventure : 8 (88.88888888888889 %)
+shooter : 2 (22.22222222222222 %)
+Items with country: 6
+GB : 4 (66.66666666666666 %)
+CA : 1 (16.666666666666664 %)
+US : 3 (50.0 %)
+action shows 
+
+#### CLUSTER 20 ####
+Items in cluster: 20
+Items with predefined genre: 16
+action : 12 (75.0 %)
+adventure : 4 (25.0 %)
+role-playing-games-rpg : 1 (6.25 %)
+fighting : 6 (37.5 %)
+platformer : 1 (6.25 %)
+arcade : 2 (12.5 %)
+Items with country: 15
+JP : 15 (100.0 %)
+CA : 1 (6.666666666666667 %)
+US : 5 (33.33333333333333 %)
+CN : 1 (6.666666666666667 %)
+SG : 1 (6.666666666666667 %)
+GB : 1 (6.666666666666667 %)
+shows from JP 
+
+#### CLUSTER 21 ####
+Items in cluster: 9
+Items with predefined genre: 8
+action : 6 (75.0 %)
+simulation : 1 (12.5 %)
+arcade : 3 (37.5 %)
+massively-multiplayer : 1 (12.5 %)
+indie : 4 (50.0 %)
+shooter : 2 (25.0 %)
+strategy : 2 (25.0 %)
+puzzle : 1 (12.5 %)
+platformer : 2 (25.0 %)
+adventure : 1 (12.5 %)
+Items with country: 8
+SE : 1 (12.5 %)
+CA : 3 (37.5 %)
+US : 5 (62.5 %)
+JP : 2 (25.0 %)
+NL : 1 (12.5 %)
+shows 
+
+#### CLUSTER 22 ####
+Items in cluster: 14
+Items with predefined genre: 14
+action : 3 (21.428571428571427 %)
+adventure : 8 (57.14285714285714 %)
+role-playing-games-rpg : 11 (78.57142857142857 %)
+strategy : 1 (7.142857142857142 %)
+indie : 1 (7.142857142857142 %)
+simulation : 1 (7.142857142857142 %)
+racing : 1 (7.142857142857142 %)
+family : 1 (7.142857142857142 %)
+puzzle : 1 (7.142857142857142 %)
+Items with country: 14
+JP : 13 (92.85714285714286 %)
+CH : 1 (7.142857142857142 %)
+US : 1 (7.142857142857142 %)
+CA : 1 (7.142857142857142 %)
+shows 
+
+#### CLUSTER 23 ####
+Items in cluster: 16
+Items with predefined genre: 15
+fighting : 11 (73.33333333333333 %)
+action : 8 (53.333333333333336 %)
+role-playing-games-rpg : 3 (20.0 %)
+adventure : 2 (13.333333333333334 %)
+indie : 1 (6.666666666666667 %)
+arcade : 3 (20.0 %)
+Items with country: 14
+US : 9 (64.28571428571429 %)
+JP : 10 (71.42857142857143 %)
+shows 
+
+#### CLUSTER 24 ####
+Items in cluster: 19
+Items with predefined genre: 18
+action : 18 (100.0 %)
+shooter : 9 (50.0 %)
+adventure : 10 (55.55555555555556 %)
+racing : 1 (5.555555555555555 %)
+Items with country: 16
+JP : 8 (50.0 %)
+US : 12 (75.0 %)
+DE : 1 (6.25 %)
+SE : 1 (6.25 %)
+GB : 1 (6.25 %)
+CA : 2 (12.5 %)
+FI : 2 (12.5 %)
+action shows 
+
+#### CLUSTER 25 ####
+Items in cluster: 20
+Items with predefined genre: 17
+role-playing-games-rpg : 17 (100.0 %)
+adventure : 1 (5.88235294117647 %)
+simulation : 1 (5.88235294117647 %)
+strategy : 2 (11.76470588235294 %)
+arcade : 1 (5.88235294117647 %)
+action : 2 (11.76470588235294 %)
+Items with country: 17
+JP : 16 (94.11764705882352 %)
+US : 3 (17.647058823529413 %)
+role-playing-games-rpg shows 
+
+#### CLUSTER 26 ####
+Items in cluster: 16
+Items with predefined genre: 11
+action : 4 (36.36363636363637 %)
+shooter : 5 (45.45454545454545 %)
+simulation : 2 (18.181818181818183 %)
+role-playing-games-rpg : 1 (9.090909090909092 %)
+strategy : 4 (36.36363636363637 %)
+adventure : 1 (9.090909090909092 %)
+arcade : 1 (9.090909090909092 %)
+Items with country: 8
+US : 6 (75.0 %)
+GB : 3 (37.5 %)
+CA : 1 (12.5 %)
+JP : 1 (12.5 %)
+shows 
+
+#### CLUSTER 27 ####
+Items in cluster: 21
+Items with predefined genre: 19
+arcade : 6 (31.57894736842105 %)
+platformer : 16 (84.21052631578947 %)
+adventure : 6 (31.57894736842105 %)
+action : 9 (47.368421052631575 %)
+family : 1 (5.263157894736842 %)
+board-games : 1 (5.263157894736842 %)
+Items with country: 20
+JP : 17 (85.0 %)
+GB : 3 (15.0 %)
+US : 5 (25.0 %)
+shows 
+
+#### CLUSTER 28 ####
+Items in cluster: 12
+Items with predefined genre: 11
+action : 11 (100.0 %)
+shooter : 6 (54.54545454545454 %)
+simulation : 2 (18.181818181818183 %)
+role-playing-games-rpg : 1 (9.090909090909092 %)
+adventure : 4 (36.36363636363637 %)
+puzzle : 1 (9.090909090909092 %)
+Items with country: 11
+DE : 2 (18.181818181818183 %)
+GB : 3 (27.27272727272727 %)
+JP : 3 (27.27272727272727 %)
+SE : 2 (18.181818181818183 %)
+DK : 3 (27.27272727272727 %)
+US : 4 (36.36363636363637 %)
+CA : 1 (9.090909090909092 %)
+CN : 1 (9.090909090909092 %)
+VN : 1 (9.090909090909092 %)
+CL : 1 (9.090909090909092 %)
+BR : 1 (9.090909090909092 %)
+ES : 1 (9.090909090909092 %)
+BY : 1 (9.090909090909092 %)
+BG : 1 (9.090909090909092 %)
+MX : 1 (9.090909090909092 %)
+UA : 1 (9.090909090909092 %)
+TH : 1 (9.090909090909092 %)
+RO : 1 (9.090909090909092 %)
+IT : 1 (9.090909090909092 %)
+HU : 1 (9.090909090909092 %)
+RU : 1 (9.090909090909092 %)
+IN : 1 (9.090909090909092 %)
+AU : 2 (18.181818181818183 %)
+AR : 1 (9.090909090909092 %)
+ZA : 1 (9.090909090909092 %)
+MY : 1 (9.090909090909092 %)
+SG : 1 (9.090909090909092 %)
+PH : 1 (9.090909090909092 %)
+TW : 1 (9.090909090909092 %)
+KR : 1 (9.090909090909092 %)
+FR : 2 (18.181818181818183 %)
+CO : 1 (9.090909090909092 %)
+ID : 1 (9.090909090909092 %)
+AE : 1 (9.090909090909092 %)
+FI : 2 (18.181818181818183 %)
+action shows 
+
+#### CLUSTER 29 ####
+Items in cluster: 19
+Items with predefined genre: 19
+shooter : 14 (73.68421052631578 %)
+action : 14 (73.68421052631578 %)
+role-playing-games-rpg : 1 (5.263157894736842 %)
+adventure : 4 (21.052631578947366 %)
+platformer : 2 (10.526315789473683 %)
+massively-multiplayer : 1 (5.263157894736842 %)
+arcade : 1 (5.263157894736842 %)
+Items with country: 17
+US : 15 (88.23529411764706 %)
+CA : 4 (23.52941176470588 %)
+JP : 2 (11.76470588235294 %)
+PL : 1 (5.88235294117647 %)
+SG : 1 (5.88235294117647 %)
+SE : 1 (5.88235294117647 %)
+shows 
+
+#### CLUSTER 30 ####
+Items in cluster: 8
+Items with predefined genre: 8
+action : 7 (87.5 %)
+adventure : 3 (37.5 %)
+fighting : 4 (50.0 %)
+arcade : 1 (12.5 %)
+card : 1 (12.5 %)
+role-playing-games-rpg : 1 (12.5 %)
+Items with country: 5
+US : 5 (100.0 %)
+FI : 1 (20.0 %)
+shows from US 
+
+#### CLUSTER 31 ####
+Items in cluster: 12
+Items with predefined genre: 9
+role-playing-games-rpg : 2 (22.22222222222222 %)
+massively-multiplayer : 3 (33.33333333333333 %)
+simulation : 3 (33.33333333333333 %)
+family : 1 (11.11111111111111 %)
+strategy : 6 (66.66666666666666 %)
+action : 3 (33.33333333333333 %)
+arcade : 1 (11.11111111111111 %)
+indie : 1 (11.11111111111111 %)
+shooter : 1 (11.11111111111111 %)
+Items with country: 10
+US : 7 (70.0 %)
+CA : 2 (20.0 %)
+JP : 1 (10.0 %)
+SE : 1 (10.0 %)
+shows 
+
+#### CLUSTER 32 ####
+Items in cluster: 16
+Items with predefined genre: 14
+action : 11 (78.57142857142857 %)
+adventure : 5 (35.714285714285715 %)
+role-playing-games-rpg : 8 (57.14285714285714 %)
+strategy : 3 (21.428571428571427 %)
+casual : 2 (14.285714285714285 %)
+massively-multiplayer : 4 (28.57142857142857 %)
+shooter : 1 (7.142857142857142 %)
+indie : 2 (14.285714285714285 %)
+platformer : 1 (7.142857142857142 %)
+card : 2 (14.285714285714285 %)
+Items with country: 11
+US : 5 (45.45454545454545 %)
+JP : 4 (36.36363636363637 %)
+KR : 3 (27.27272727272727 %)
+AU : 1 (9.090909090909092 %)
+CN : 2 (18.181818181818183 %)
+SG : 1 (9.090909090909092 %)
+GB : 1 (9.090909090909092 %)
+shows 
+
+#### CLUSTER 33 ####
+Items in cluster: 15
+Items with predefined genre: 15
+action : 11 (73.33333333333333 %)
+shooter : 5 (33.33333333333333 %)
+adventure : 6 (40.0 %)
+role-playing-games-rpg : 5 (33.33333333333333 %)
+strategy : 1 (6.666666666666667 %)
+indie : 2 (13.333333333333334 %)
+Items with country: 14
+US : 5 (35.714285714285715 %)
+FR : 2 (14.285714285714285 %)
+CA : 8 (57.14285714285714 %)
+GB : 2 (14.285714285714285 %)
+JP : 4 (28.57142857142857 %)
+DE : 4 (28.57142857142857 %)
+CN : 1 (7.142857142857142 %)
+RO : 2 (14.285714285714285 %)
+UA : 1 (7.142857142857142 %)
+SG : 1 (7.142857142857142 %)
+shows 
+
+#### CLUSTER 34 ####
+Items in cluster: 13
+Items with predefined genre: 13
+action : 6 (46.15384615384615 %)
+adventure : 8 (61.53846153846154 %)
+role-playing-games-rpg : 9 (69.23076923076923 %)
+casual : 1 (7.6923076923076925 %)
+strategy : 1 (7.6923076923076925 %)
+Items with country: 12
+JP : 12 (100.0 %)
+shows from JP 
+
+#### CLUSTER 35 ####
+Items in cluster: 9
+Items with predefined genre: 8
+adventure : 4 (50.0 %)
+action : 2 (25.0 %)
+role-playing-games-rpg : 1 (12.5 %)
+puzzle : 1 (12.5 %)
+simulation : 5 (62.5 %)
+casual : 2 (25.0 %)
+Items with country: 7
+FR : 1 (14.285714285714285 %)
+JP : 2 (28.57142857142857 %)
+US : 4 (57.14285714285714 %)
+shows 
+
+#### CLUSTER 36 ####
+Items in cluster: 12
+Items with predefined genre: 8
+action : 1 (12.5 %)
+role-playing-games-rpg : 8 (100.0 %)
+Items with country: 9
+JP : 9 (100.0 %)
+role-playing-games-rpg shows from JP 
+
+#### CLUSTER 37 ####
+Items in cluster: 10
+Items with predefined genre: 9
+action : 8 (88.88888888888889 %)
+adventure : 7 (77.77777777777779 %)
+shooter : 3 (33.33333333333333 %)
+arcade : 1 (11.11111111111111 %)
+casual : 1 (11.11111111111111 %)
+fighting : 1 (11.11111111111111 %)
+platformer : 3 (33.33333333333333 %)
+Items with country: 9
+JP : 6 (66.66666666666666 %)
+US : 5 (55.55555555555556 %)
+FR : 1 (11.11111111111111 %)
+ES : 1 (11.11111111111111 %)
+CN : 2 (22.22222222222222 %)
+CA : 1 (11.11111111111111 %)
+SG : 1 (11.11111111111111 %)
+GB : 1 (11.11111111111111 %)
+shows 
+
+
+14 clusters have characterstic genre (37.83783783783784%)
+
+
+347 titles being analysed wrt series
+73 series included
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 500 titles in topSBM clusters: ( 1.2%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 500 titles in topSBM clusters: ( 0.8%)
+3 clusters represented out of 37: (8.108108108108109%)
+!! Herfindahl-Hirschman Index: 0.375
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+4 games in series out of 500 titles in topSBM clusters: ( 0.8%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.625
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 500 titles in topSBM clusters: ( 0.8%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 500 titles in topSBM clusters: ( 0.8%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 500 titles in topSBM clusters: ( 0.8%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.625
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 500 titles in topSBM clusters: ( 1.0%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5
+6 games in series out of 500 titles in topSBM clusters: ( 1.2%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+21 games in series out of 500 titles in topSBM clusters: ( 4.2%)
+7 clusters represented out of 37: (18.91891891891892%)
+!! Herfindahl-Hirschman Index: 0.2290249433106576
+10 games in series out of 500 titles in topSBM clusters: ( 2.0%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5
+5 games in series out of 500 titles in topSBM clusters: ( 1.0%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 500 titles in topSBM clusters: ( 1.4000000000000001%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 500 titles in topSBM clusters: ( 1.4000000000000001%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+4 games in series out of 500 titles in topSBM clusters: ( 0.8%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 500 titles in topSBM clusters: ( 1.4000000000000001%)
+3 clusters represented out of 37: (8.108108108108109%)
+!! Herfindahl-Hirschman Index: 0.5510204081632654
+8 games in series out of 500 titles in topSBM clusters: ( 1.6%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 500 titles in topSBM clusters: ( 1.2%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5
+4 games in series out of 500 titles in topSBM clusters: ( 0.8%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.625
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 500 titles in topSBM clusters: ( 1.0%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+10 games in series out of 500 titles in topSBM clusters: ( 2.0%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.8200000000000001
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5
+6 games in series out of 500 titles in topSBM clusters: ( 1.2%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.7222222222222223
+4 games in series out of 500 titles in topSBM clusters: ( 0.8%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.625
+4 games in series out of 500 titles in topSBM clusters: ( 0.8%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+11 games in series out of 500 titles in topSBM clusters: ( 2.1999999999999997%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5041322314049586
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+10 games in series out of 500 titles in topSBM clusters: ( 2.0%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.8200000000000001
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 500 titles in topSBM clusters: ( 1.0%)
+3 clusters represented out of 37: (8.108108108108109%)
+!! Herfindahl-Hirschman Index: 0.44000000000000006
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+11 games in series out of 500 titles in topSBM clusters: ( 2.1999999999999997%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5041322314049586
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 500 titles in topSBM clusters: ( 0.4%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+1 clusters represented out of 37: (2.7027027027027026%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 500 titles in topSBM clusters: ( 0.6%)
+2 clusters represented out of 37: (5.405405405405405%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+0.7989798909110422

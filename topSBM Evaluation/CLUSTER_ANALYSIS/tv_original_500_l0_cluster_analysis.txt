@@ -1,0 +1,1287 @@
+Number of clusters: 
+72
+
+#### CLUSTER 1 ####
+Items in cluster: 3
+Items with predefined genre: 3
+Adventure : 1 (33.33333333333333 %)
+Drama : 3 (100.0 %)
+Mystery : 3 (100.0 %)
+Sci-Fi : 3 (100.0 %)
+Fantasy : 2 (66.66666666666666 %)
+Horror : 2 (66.66666666666666 %)
+Thriller : 2 (66.66666666666666 %)
+Items with country: 3
+GB : 2 (66.66666666666666 %)
+CA : 1 (33.33333333333333 %)
+US : 2 (66.66666666666666 %)
+Drama Mystery Sci-Fi shows 
+
+#### CLUSTER 2 ####
+Items in cluster: 8
+Items with predefined genre: 8
+Animation : 7 (87.5 %)
+Action : 1 (12.5 %)
+Comedy : 8 (100.0 %)
+Short : 2 (25.0 %)
+Adventure : 1 (12.5 %)
+Sci-Fi : 1 (12.5 %)
+Drama : 2 (25.0 %)
+War : 1 (12.5 %)
+Items with country: 8
+US : 8 (100.0 %)
+Comedy shows from US 
+
+#### CLUSTER 3 ####
+Items in cluster: 4
+Items with predefined genre: 4
+Animation : 4 (100.0 %)
+Action : 3 (75.0 %)
+Adventure : 4 (100.0 %)
+Comedy : 4 (100.0 %)
+Family : 4 (100.0 %)
+Fantasy : 4 (100.0 %)
+Sci-Fi : 3 (75.0 %)
+Drama : 3 (75.0 %)
+Music : 1 (25.0 %)
+Musical : 2 (50.0 %)
+Thriller : 1 (25.0 %)
+Items with country: 4
+US : 4 (100.0 %)
+CA : 1 (25.0 %)
+MX : 1 (25.0 %)
+AR : 1 (25.0 %)
+JP : 1 (25.0 %)
+ES : 1 (25.0 %)
+Animation Adventure Comedy Family Fantasy shows from US 
+
+#### CLUSTER 4 ####
+Items in cluster: 3
+Items with predefined genre: 3
+Action : 2 (66.66666666666666 %)
+Drama : 3 (100.0 %)
+Fantasy : 3 (100.0 %)
+Thriller : 2 (66.66666666666666 %)
+Romance : 1 (33.33333333333333 %)
+Animation : 1 (33.33333333333333 %)
+Horror : 1 (33.33333333333333 %)
+Mystery : 1 (33.33333333333333 %)
+Items with country: 2
+US : 2 (100.0 %)
+JP : 1 (50.0 %)
+CA : 1 (50.0 %)
+Drama Fantasy shows from US 
+
+#### CLUSTER 5 ####
+Items in cluster: 2
+Items with predefined genre: 2
+Comedy : 2 (100.0 %)
+Sci-Fi : 2 (100.0 %)
+Animation : 1 (50.0 %)
+Adventure : 1 (50.0 %)
+Items with country: 2
+GB : 1 (50.0 %)
+US : 1 (50.0 %)
+Comedy Sci-Fi shows 
+
+#### CLUSTER 6 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 5 (100.0 %)
+Action : 5 (100.0 %)
+Adventure : 4 (80.0 %)
+Comedy : 2 (40.0 %)
+Drama : 4 (80.0 %)
+Fantasy : 5 (100.0 %)
+Horror : 4 (80.0 %)
+Thriller : 2 (40.0 %)
+Mystery : 1 (20.0 %)
+Sci-Fi : 1 (20.0 %)
+Romance : 1 (20.0 %)
+Items with country: 5
+JP : 5 (100.0 %)
+Animation Action Fantasy shows from JP 
+
+#### CLUSTER 7 ####
+Items in cluster: 2
+Items with predefined genre: 2
+Animation : 2 (100.0 %)
+Action : 2 (100.0 %)
+Adventure : 2 (100.0 %)
+Comedy : 1 (50.0 %)
+Drama : 1 (50.0 %)
+Family : 2 (100.0 %)
+Fantasy : 2 (100.0 %)
+Sci-Fi : 1 (50.0 %)
+Mystery : 1 (50.0 %)
+Items with country: 2
+US : 2 (100.0 %)
+Animation Action Adventure Family Fantasy shows from US 
+
+#### CLUSTER 8 ####
+Items in cluster: 4
+Items with predefined genre: 4
+Action : 3 (75.0 %)
+Adventure : 4 (100.0 %)
+Sci-Fi : 4 (100.0 %)
+Fantasy : 1 (25.0 %)
+Mystery : 1 (25.0 %)
+Items with country: 4
+US : 4 (100.0 %)
+Adventure Sci-Fi shows from US 
+
+#### CLUSTER 9 ####
+Items in cluster: 4
+Items with predefined genre: 4
+Drama : 3 (75.0 %)
+Fantasy : 4 (100.0 %)
+Sci-Fi : 1 (25.0 %)
+Thriller : 1 (25.0 %)
+Adventure : 3 (75.0 %)
+Action : 1 (25.0 %)
+Romance : 1 (25.0 %)
+Items with country: 4
+US : 3 (75.0 %)
+GB : 2 (50.0 %)
+Fantasy shows 
+
+#### CLUSTER 10 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 5 (100.0 %)
+Comedy : 3 (60.0 %)
+Drama : 2 (40.0 %)
+Fantasy : 5 (100.0 %)
+Romance : 1 (20.0 %)
+Action : 3 (60.0 %)
+Adventure : 2 (40.0 %)
+Mystery : 1 (20.0 %)
+Thriller : 1 (20.0 %)
+Items with country: 5
+JP : 5 (100.0 %)
+Animation Fantasy shows from JP 
+
+#### CLUSTER 11 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Action : 3 (60.0 %)
+Adventure : 3 (60.0 %)
+Drama : 5 (100.0 %)
+Sci-Fi : 4 (80.0 %)
+Fantasy : 1 (20.0 %)
+Horror : 1 (20.0 %)
+Mystery : 1 (20.0 %)
+Thriller : 1 (20.0 %)
+Items with country: 5
+AU : 1 (20.0 %)
+US : 5 (100.0 %)
+CA : 2 (40.0 %)
+Drama shows from US 
+
+#### CLUSTER 12 ####
+Items in cluster: 3
+Items with predefined genre: 3
+Animation : 3 (100.0 %)
+Action : 3 (100.0 %)
+Adventure : 1 (33.33333333333333 %)
+Comedy : 2 (66.66666666666666 %)
+Drama : 2 (66.66666666666666 %)
+Fantasy : 3 (100.0 %)
+Sci-Fi : 1 (33.33333333333333 %)
+Crime : 1 (33.33333333333333 %)
+Horror : 2 (66.66666666666666 %)
+Mystery : 1 (33.33333333333333 %)
+Thriller : 1 (33.33333333333333 %)
+Items with country: 3
+JP : 3 (100.0 %)
+Animation Action Fantasy shows from JP 
+
+#### CLUSTER 13 ####
+Items in cluster: 1
+Items with predefined genre: 1
+Animation : 1 (100.0 %)
+Action : 1 (100.0 %)
+Drama : 1 (100.0 %)
+Sci-Fi : 1 (100.0 %)
+Items with country: 1
+JP : 1 (100.0 %)
+Animation Action Drama Sci-Fi shows from JP 
+
+#### CLUSTER 14 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 4 (80.0 %)
+Action : 3 (60.0 %)
+Adventure : 3 (60.0 %)
+Comedy : 1 (20.0 %)
+Crime : 4 (80.0 %)
+Fantasy : 3 (60.0 %)
+Mystery : 4 (80.0 %)
+Thriller : 4 (80.0 %)
+Romance : 1 (20.0 %)
+Sci-Fi : 1 (20.0 %)
+Drama : 3 (60.0 %)
+Items with country: 5
+US : 1 (20.0 %)
+JP : 4 (80.0 %)
+CA : 1 (20.0 %)
+FR : 1 (20.0 %)
+shows 
+
+#### CLUSTER 15 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 5 (100.0 %)
+Action : 5 (100.0 %)
+Adventure : 5 (100.0 %)
+Drama : 2 (40.0 %)
+Fantasy : 4 (80.0 %)
+Sci-Fi : 5 (100.0 %)
+Thriller : 3 (60.0 %)
+Comedy : 1 (20.0 %)
+Family : 1 (20.0 %)
+Items with country: 5
+US : 3 (60.0 %)
+JP : 4 (80.0 %)
+CA : 2 (40.0 %)
+Animation Action Adventure Sci-Fi shows 
+
+#### CLUSTER 16 ####
+Items in cluster: 7
+Items with predefined genre: 7
+Animation : 7 (100.0 %)
+Comedy : 7 (100.0 %)
+Family : 7 (100.0 %)
+Fantasy : 4 (57.14285714285714 %)
+Short : 3 (42.857142857142854 %)
+Adventure : 3 (42.857142857142854 %)
+Drama : 2 (28.57142857142857 %)
+Music : 1 (14.285714285714285 %)
+Musical : 2 (28.57142857142857 %)
+Action : 2 (28.57142857142857 %)
+Sci-Fi : 2 (28.57142857142857 %)
+Items with country: 7
+US : 7 (100.0 %)
+CA : 2 (28.57142857142857 %)
+GB : 1 (14.285714285714285 %)
+IE : 1 (14.285714285714285 %)
+DE : 1 (14.285714285714285 %)
+Animation Comedy Family shows from US 
+
+#### CLUSTER 17 ####
+Items in cluster: 4
+Items with predefined genre: 4
+Animation : 4 (100.0 %)
+Action : 4 (100.0 %)
+Drama : 3 (75.0 %)
+Sci-Fi : 4 (100.0 %)
+Thriller : 2 (50.0 %)
+Horror : 1 (25.0 %)
+Mystery : 1 (25.0 %)
+Adventure : 1 (25.0 %)
+Comedy : 1 (25.0 %)
+Western : 1 (25.0 %)
+Romance : 1 (25.0 %)
+Items with country: 4
+JP : 4 (100.0 %)
+Animation Action Sci-Fi shows from JP 
+
+#### CLUSTER 18 ####
+Items in cluster: 4
+Items with predefined genre: 4
+Action : 3 (75.0 %)
+Adventure : 3 (75.0 %)
+Fantasy : 1 (25.0 %)
+Sci-Fi : 4 (100.0 %)
+Drama : 2 (50.0 %)
+Animation : 2 (50.0 %)
+Comedy : 1 (25.0 %)
+Crime : 1 (25.0 %)
+Thriller : 1 (25.0 %)
+Items with country: 4
+US : 2 (50.0 %)
+JP : 2 (50.0 %)
+Sci-Fi shows 
+
+#### CLUSTER 19 ####
+Items in cluster: 7
+Items with predefined genre: 7
+Animation : 7 (100.0 %)
+Action : 7 (100.0 %)
+Adventure : 7 (100.0 %)
+Family : 7 (100.0 %)
+Fantasy : 7 (100.0 %)
+Comedy : 6 (85.71428571428571 %)
+Drama : 3 (42.857142857142854 %)
+Thriller : 1 (14.285714285714285 %)
+Sci-Fi : 2 (28.57142857142857 %)
+Romance : 1 (14.285714285714285 %)
+Horror : 1 (14.285714285714285 %)
+Mystery : 1 (14.285714285714285 %)
+Items with country: 7
+FR : 2 (28.57142857142857 %)
+IT : 1 (14.285714285714285 %)
+US : 5 (71.42857142857143 %)
+JP : 1 (14.285714285714285 %)
+Animation Action Adventure Family Fantasy shows 
+
+#### CLUSTER 20 ####
+Items in cluster: 9
+Items with predefined genre: 9
+Action : 6 (66.66666666666666 %)
+Adventure : 6 (66.66666666666666 %)
+Comedy : 8 (88.88888888888889 %)
+Crime : 2 (22.22222222222222 %)
+Fantasy : 5 (55.55555555555556 %)
+Sci-Fi : 7 (77.77777777777779 %)
+Animation : 7 (77.77777777777779 %)
+Family : 4 (44.44444444444444 %)
+Mystery : 3 (33.33333333333333 %)
+Musical : 1 (11.11111111111111 %)
+Sport : 1 (11.11111111111111 %)
+Short : 1 (11.11111111111111 %)
+Drama : 2 (22.22222222222222 %)
+Music : 1 (11.11111111111111 %)
+Items with country: 9
+US : 9 (100.0 %)
+CA : 1 (11.11111111111111 %)
+IE : 1 (11.11111111111111 %)
+shows from US 
+
+#### CLUSTER 21 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Documentary : 1 (20.0 %)
+Mystery : 1 (20.0 %)
+Reality-TV : 1 (20.0 %)
+Comedy : 4 (80.0 %)
+Family : 1 (20.0 %)
+Sci-Fi : 1 (20.0 %)
+Items with country: 5
+US : 3 (60.0 %)
+GB : 2 (40.0 %)
+shows 
+
+#### CLUSTER 22 ####
+Items in cluster: 19
+Items with predefined genre: 19
+Animation : 19 (100.0 %)
+Action : 17 (89.47368421052632 %)
+Adventure : 17 (89.47368421052632 %)
+Family : 2 (10.526315789473683 %)
+Fantasy : 16 (84.21052631578947 %)
+Sci-Fi : 6 (31.57894736842105 %)
+Comedy : 9 (47.368421052631575 %)
+Drama : 6 (31.57894736842105 %)
+Thriller : 4 (21.052631578947366 %)
+Crime : 1 (5.263157894736842 %)
+History : 1 (5.263157894736842 %)
+Romance : 2 (10.526315789473683 %)
+Mystery : 1 (5.263157894736842 %)
+Horror : 1 (5.263157894736842 %)
+Items with country: 17
+JP : 17 (100.0 %)
+CA : 1 (5.88235294117647 %)
+Animation shows from JP 
+
+#### CLUSTER 23 ####
+Items in cluster: 8
+Items with predefined genre: 8
+Action : 6 (75.0 %)
+Adventure : 7 (87.5 %)
+Drama : 8 (100.0 %)
+Sci-Fi : 8 (100.0 %)
+Comedy : 1 (12.5 %)
+Fantasy : 1 (12.5 %)
+Items with country: 8
+CA : 5 (62.5 %)
+US : 7 (87.5 %)
+DE : 1 (12.5 %)
+GB : 2 (25.0 %)
+Drama Sci-Fi shows 
+
+#### CLUSTER 24 ####
+Items in cluster: 8
+Items with predefined genre: 8
+Animation : 8 (100.0 %)
+Comedy : 7 (87.5 %)
+Family : 8 (100.0 %)
+Sci-Fi : 3 (37.5 %)
+Adventure : 5 (62.5 %)
+Fantasy : 5 (62.5 %)
+Horror : 2 (25.0 %)
+Action : 3 (37.5 %)
+Drama : 2 (25.0 %)
+Mystery : 1 (12.5 %)
+Thriller : 1 (12.5 %)
+Items with country: 8
+FR : 2 (25.0 %)
+US : 7 (87.5 %)
+CA : 2 (25.0 %)
+HK : 1 (12.5 %)
+BE : 1 (12.5 %)
+Animation Family shows 
+
+#### CLUSTER 25 ####
+Items in cluster: 6
+Items with predefined genre: 6
+Comedy : 6 (100.0 %)
+Romance : 1 (16.666666666666664 %)
+Drama : 3 (50.0 %)
+Music : 2 (33.33333333333333 %)
+Musical : 1 (16.666666666666664 %)
+Animation : 1 (16.666666666666664 %)
+Items with country: 6
+US : 6 (100.0 %)
+Comedy shows from US 
+
+#### CLUSTER 26 ####
+Items in cluster: 21
+Items with predefined genre: 21
+Comedy : 2 (9.523809523809524 %)
+Crime : 20 (95.23809523809523 %)
+Drama : 21 (100.0 %)
+Mystery : 17 (80.95238095238095 %)
+Romance : 1 (4.761904761904762 %)
+Action : 6 (28.57142857142857 %)
+Thriller : 11 (52.38095238095239 %)
+Sci-Fi : 1 (4.761904761904762 %)
+Items with country: 21
+US : 19 (90.47619047619048 %)
+GB : 2 (9.523809523809524 %)
+CA : 4 (19.047619047619047 %)
+Drama shows 
+
+#### CLUSTER 27 ####
+Items in cluster: 2
+Items with predefined genre: 2
+Crime : 1 (50.0 %)
+Drama : 2 (100.0 %)
+Mystery : 2 (100.0 %)
+Sci-Fi : 2 (100.0 %)
+Thriller : 2 (100.0 %)
+Action : 1 (50.0 %)
+Items with country: 2
+US : 1 (50.0 %)
+GB : 1 (50.0 %)
+CA : 1 (50.0 %)
+Drama Mystery Sci-Fi Thriller shows 
+
+#### CLUSTER 28 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Comedy : 5 (100.0 %)
+Romance : 3 (60.0 %)
+Family : 1 (20.0 %)
+Items with country: 5
+US : 5 (100.0 %)
+Comedy shows from US 
+
+#### CLUSTER 29 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 5 (100.0 %)
+Comedy : 5 (100.0 %)
+Crime : 3 (60.0 %)
+Drama : 3 (60.0 %)
+Thriller : 2 (40.0 %)
+Action : 2 (40.0 %)
+Romance : 3 (60.0 %)
+Mystery : 1 (20.0 %)
+Fantasy : 2 (40.0 %)
+Sci-Fi : 1 (20.0 %)
+Items with country: 5
+JP : 5 (100.0 %)
+DE : 1 (20.0 %)
+Animation Comedy shows from JP 
+
+#### CLUSTER 30 ####
+Items in cluster: 3
+Items with predefined genre: 3
+Animation : 3 (100.0 %)
+Action : 3 (100.0 %)
+Adventure : 3 (100.0 %)
+Comedy : 2 (66.66666666666666 %)
+Family : 3 (100.0 %)
+Fantasy : 2 (66.66666666666666 %)
+Horror : 1 (33.33333333333333 %)
+Sci-Fi : 2 (66.66666666666666 %)
+Romance : 2 (66.66666666666666 %)
+Mystery : 1 (33.33333333333333 %)
+Items with country: 3
+CA : 1 (33.33333333333333 %)
+US : 3 (100.0 %)
+FR : 1 (33.33333333333333 %)
+KR : 1 (33.33333333333333 %)
+JP : 1 (33.33333333333333 %)
+Animation Action Adventure Family shows from US 
+
+#### CLUSTER 31 ####
+Items in cluster: 4
+Items with predefined genre: 4
+Animation : 4 (100.0 %)
+Action : 4 (100.0 %)
+Adventure : 4 (100.0 %)
+Drama : 3 (75.0 %)
+Family : 2 (50.0 %)
+Fantasy : 2 (50.0 %)
+Mystery : 1 (25.0 %)
+Sci-Fi : 4 (100.0 %)
+Crime : 1 (25.0 %)
+Romance : 1 (25.0 %)
+Comedy : 1 (25.0 %)
+Items with country: 4
+US : 4 (100.0 %)
+Animation Action Adventure Sci-Fi shows from US 
+
+#### CLUSTER 32 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 4 (80.0 %)
+Action : 5 (100.0 %)
+Adventure : 5 (100.0 %)
+Drama : 3 (60.0 %)
+Family : 3 (60.0 %)
+Sci-Fi : 4 (80.0 %)
+Crime : 2 (40.0 %)
+Mystery : 2 (40.0 %)
+Thriller : 2 (40.0 %)
+Fantasy : 2 (40.0 %)
+Romance : 1 (20.0 %)
+Items with country: 5
+US : 5 (100.0 %)
+CA : 1 (20.0 %)
+Action Adventure shows from US 
+
+#### CLUSTER 33 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Adventure : 3 (60.0 %)
+Comedy : 3 (60.0 %)
+Drama : 4 (80.0 %)
+Romance : 2 (40.0 %)
+Sci-Fi : 4 (80.0 %)
+Animation : 1 (20.0 %)
+Action : 2 (40.0 %)
+Fantasy : 2 (40.0 %)
+Horror : 1 (20.0 %)
+Mystery : 2 (40.0 %)
+Thriller : 1 (20.0 %)
+Items with country: 5
+US : 5 (100.0 %)
+shows from US 
+
+#### CLUSTER 34 ####
+Items in cluster: 2
+Items with predefined genre: 2
+Action : 1 (50.0 %)
+Adventure : 2 (100.0 %)
+Drama : 2 (100.0 %)
+Sci-Fi : 2 (100.0 %)
+Thriller : 1 (50.0 %)
+Romance : 1 (50.0 %)
+Items with country: 2
+US : 2 (100.0 %)
+CA : 1 (50.0 %)
+Adventure Drama Sci-Fi shows from US 
+
+#### CLUSTER 35 ####
+Items in cluster: 4
+Items with predefined genre: 4
+Animation : 4 (100.0 %)
+Action : 4 (100.0 %)
+Comedy : 3 (75.0 %)
+Drama : 3 (75.0 %)
+Adventure : 2 (50.0 %)
+Sci-Fi : 3 (75.0 %)
+Fantasy : 1 (25.0 %)
+Romance : 1 (25.0 %)
+Items with country: 4
+JP : 4 (100.0 %)
+Animation Action shows from JP 
+
+#### CLUSTER 36 ####
+Items in cluster: 3
+Items with predefined genre: 3
+Drama : 3 (100.0 %)
+Horror : 1 (33.33333333333333 %)
+Thriller : 3 (100.0 %)
+Adventure : 1 (33.33333333333333 %)
+Fantasy : 1 (33.33333333333333 %)
+Mystery : 1 (33.33333333333333 %)
+Sci-Fi : 1 (33.33333333333333 %)
+Crime : 1 (33.33333333333333 %)
+Items with country: 3
+US : 3 (100.0 %)
+Drama Thriller shows from US 
+
+#### CLUSTER 37 ####
+Items in cluster: 3
+Items with predefined genre: 3
+Action : 2 (66.66666666666666 %)
+Adventure : 2 (66.66666666666666 %)
+Drama : 3 (100.0 %)
+Fantasy : 3 (100.0 %)
+Romance : 1 (33.33333333333333 %)
+Mystery : 1 (33.33333333333333 %)
+Items with country: 3
+US : 3 (100.0 %)
+NZ : 1 (33.33333333333333 %)
+Drama Fantasy shows from US 
+
+#### CLUSTER 38 ####
+Items in cluster: 10
+Items with predefined genre: 10
+Drama : 9 (90.0 %)
+Comedy : 3 (30.0 %)
+Crime : 3 (30.0 %)
+Fantasy : 1 (10.0 %)
+Mystery : 4 (40.0 %)
+Romance : 4 (40.0 %)
+Thriller : 1 (10.0 %)
+Items with country: 10
+US : 9 (90.0 %)
+GB : 1 (10.0 %)
+shows 
+
+#### CLUSTER 39 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 5 (100.0 %)
+Adventure : 5 (100.0 %)
+Comedy : 5 (100.0 %)
+Family : 5 (100.0 %)
+Drama : 2 (40.0 %)
+Fantasy : 2 (40.0 %)
+Short : 1 (20.0 %)
+Music : 1 (20.0 %)
+Items with country: 5
+US : 5 (100.0 %)
+FR : 1 (20.0 %)
+GB : 1 (20.0 %)
+ES : 1 (20.0 %)
+MX : 1 (20.0 %)
+Animation Adventure Comedy Family shows from US 
+
+#### CLUSTER 40 ####
+Items in cluster: 18
+Items with predefined genre: 18
+Animation : 17 (94.44444444444444 %)
+Adventure : 12 (66.66666666666666 %)
+Comedy : 18 (100.0 %)
+Family : 16 (88.88888888888889 %)
+Fantasy : 6 (33.33333333333333 %)
+Musical : 4 (22.22222222222222 %)
+History : 1 (5.555555555555555 %)
+Short : 6 (33.33333333333333 %)
+Music : 2 (11.11111111111111 %)
+Sci-Fi : 2 (11.11111111111111 %)
+Mystery : 1 (5.555555555555555 %)
+Romance : 1 (5.555555555555555 %)
+Items with country: 18
+US : 18 (100.0 %)
+CA : 1 (5.555555555555555 %)
+KR : 1 (5.555555555555555 %)
+GB : 2 (11.11111111111111 %)
+IE : 1 (5.555555555555555 %)
+CN : 1 (5.555555555555555 %)
+Comedy shows from US 
+
+#### CLUSTER 41 ####
+Items in cluster: 11
+Items with predefined genre: 11
+Animation : 7 (63.63636363636363 %)
+Action : 11 (100.0 %)
+Sci-Fi : 11 (100.0 %)
+Short : 3 (27.27272727272727 %)
+Adventure : 8 (72.72727272727273 %)
+Comedy : 4 (36.36363636363637 %)
+Family : 8 (72.72727272727273 %)
+Thriller : 1 (9.090909090909092 %)
+Fantasy : 2 (18.181818181818183 %)
+Drama : 1 (9.090909090909092 %)
+Items with country: 11
+CA : 2 (18.181818181818183 %)
+US : 9 (81.81818181818183 %)
+JP : 4 (36.36363636363637 %)
+KR : 1 (9.090909090909092 %)
+NZ : 1 (9.090909090909092 %)
+FR : 1 (9.090909090909092 %)
+Action Sci-Fi shows 
+
+#### CLUSTER 42 ####
+Items in cluster: 17
+Items with predefined genre: 17
+Animation : 16 (94.11764705882352 %)
+Adventure : 15 (88.23529411764706 %)
+Comedy : 15 (88.23529411764706 %)
+Family : 16 (94.11764705882352 %)
+Sci-Fi : 10 (58.82352941176471 %)
+Fantasy : 9 (52.94117647058824 %)
+Musical : 1 (5.88235294117647 %)
+Short : 3 (17.647058823529413 %)
+Action : 7 (41.17647058823529 %)
+Crime : 2 (11.76470588235294 %)
+Horror : 2 (11.76470588235294 %)
+Drama : 4 (23.52941176470588 %)
+Mystery : 2 (11.76470588235294 %)
+Music : 1 (5.88235294117647 %)
+Romance : 1 (5.88235294117647 %)
+Items with country: 16
+US : 15 (93.75 %)
+CA : 5 (31.25 %)
+CN : 1 (6.25 %)
+TW : 1 (6.25 %)
+FR : 1 (6.25 %)
+GB : 1 (6.25 %)
+shows 
+
+#### CLUSTER 43 ####
+Items in cluster: 4
+Items with predefined genre: 3
+Action : 3 (100.0 %)
+Adventure : 3 (100.0 %)
+Drama : 3 (100.0 %)
+Sci-Fi : 3 (100.0 %)
+Items with country: 3
+US : 3 (100.0 %)
+Action Adventure Drama Sci-Fi shows from US 
+
+#### CLUSTER 44 ####
+Items in cluster: 27
+Items with predefined genre: 27
+Animation : 27 (100.0 %)
+Action : 22 (81.48148148148148 %)
+Adventure : 15 (55.55555555555556 %)
+Fantasy : 25 (92.5925925925926 %)
+Thriller : 3 (11.11111111111111 %)
+Drama : 13 (48.148148148148145 %)
+Romance : 13 (48.148148148148145 %)
+Comedy : 19 (70.37037037037037 %)
+Sci-Fi : 5 (18.51851851851852 %)
+Family : 1 (3.7037037037037033 %)
+Mystery : 4 (14.814814814814813 %)
+Horror : 3 (11.11111111111111 %)
+Items with country: 26
+JP : 25 (96.15384615384616 %)
+US : 1 (3.8461538461538463 %)
+Animation shows 
+
+#### CLUSTER 45 ####
+Items in cluster: 10
+Items with predefined genre: 10
+Animation : 10 (100.0 %)
+Action : 9 (90.0 %)
+Adventure : 9 (90.0 %)
+Sci-Fi : 8 (80.0 %)
+Crime : 4 (40.0 %)
+Family : 9 (90.0 %)
+Fantasy : 6 (60.0 %)
+Drama : 3 (30.0 %)
+Mystery : 4 (40.0 %)
+Comedy : 5 (50.0 %)
+Thriller : 3 (30.0 %)
+Romance : 2 (20.0 %)
+Short : 1 (10.0 %)
+War : 1 (10.0 %)
+Items with country: 10
+US : 9 (90.0 %)
+GB : 1 (10.0 %)
+IT : 1 (10.0 %)
+Animation shows 
+
+#### CLUSTER 46 ####
+Items in cluster: 16
+Items with predefined genre: 16
+Animation : 16 (100.0 %)
+Short : 3 (18.75 %)
+Action : 13 (81.25 %)
+Adventure : 14 (87.5 %)
+Comedy : 15 (93.75 %)
+Family : 15 (93.75 %)
+Fantasy : 10 (62.5 %)
+Sci-Fi : 12 (75.0 %)
+Western : 1 (6.25 %)
+Drama : 1 (6.25 %)
+Horror : 1 (6.25 %)
+Crime : 3 (18.75 %)
+Mystery : 4 (25.0 %)
+Musical : 1 (6.25 %)
+Items with country: 15
+US : 12 (80.0 %)
+IT : 1 (6.666666666666667 %)
+ES : 1 (6.666666666666667 %)
+CN : 1 (6.666666666666667 %)
+BE : 1 (6.666666666666667 %)
+GB : 1 (6.666666666666667 %)
+KR : 1 (6.666666666666667 %)
+FR : 1 (6.666666666666667 %)
+CA : 1 (6.666666666666667 %)
+JP : 1 (6.666666666666667 %)
+TW : 1 (6.666666666666667 %)
+Animation shows 
+
+#### CLUSTER 47 ####
+Items in cluster: 17
+Items with predefined genre: 17
+Comedy : 17 (100.0 %)
+Drama : 3 (17.647058823529413 %)
+Family : 1 (5.88235294117647 %)
+Sci-Fi : 1 (5.88235294117647 %)
+Crime : 1 (5.88235294117647 %)
+Romance : 1 (5.88235294117647 %)
+Musical : 1 (5.88235294117647 %)
+Items with country: 15
+US : 13 (86.66666666666667 %)
+CA : 1 (6.666666666666667 %)
+GB : 1 (6.666666666666667 %)
+Comedy shows 
+
+#### CLUSTER 48 ####
+Items in cluster: 8
+Items with predefined genre: 8
+Animation : 8 (100.0 %)
+Action : 8 (100.0 %)
+Adventure : 8 (100.0 %)
+Comedy : 6 (75.0 %)
+Sci-Fi : 7 (87.5 %)
+Thriller : 1 (12.5 %)
+Family : 7 (87.5 %)
+Fantasy : 2 (25.0 %)
+Romance : 1 (12.5 %)
+Drama : 1 (12.5 %)
+Items with country: 8
+US : 7 (87.5 %)
+KR : 1 (12.5 %)
+DK : 1 (12.5 %)
+SG : 1 (12.5 %)
+CA : 1 (12.5 %)
+HK : 1 (12.5 %)
+FR : 1 (12.5 %)
+BE : 1 (12.5 %)
+Animation Action Adventure shows 
+
+#### CLUSTER 49 ####
+Items in cluster: 19
+Items with predefined genre: 19
+Action : 11 (57.89473684210527 %)
+Comedy : 2 (10.526315789473683 %)
+Drama : 18 (94.73684210526315 %)
+Adventure : 1 (5.263157894736842 %)
+Crime : 14 (73.68421052631578 %)
+Fantasy : 2 (10.526315789473683 %)
+Sci-Fi : 6 (31.57894736842105 %)
+Thriller : 14 (73.68421052631578 %)
+Horror : 1 (5.263157894736842 %)
+Mystery : 8 (42.10526315789473 %)
+Sport : 1 (5.263157894736842 %)
+History : 2 (10.526315789473683 %)
+Western : 1 (5.263157894736842 %)
+Romance : 1 (5.263157894736842 %)
+War : 1 (5.263157894736842 %)
+Items with country: 19
+US : 17 (89.47368421052632 %)
+GB : 4 (21.052631578947366 %)
+CA : 1 (5.263157894736842 %)
+shows 
+
+#### CLUSTER 50 ####
+Items in cluster: 6
+Items with predefined genre: 6
+Animation : 3 (50.0 %)
+Action : 5 (83.33333333333334 %)
+Adventure : 5 (83.33333333333334 %)
+Comedy : 2 (33.33333333333333 %)
+Drama : 6 (100.0 %)
+Family : 2 (33.33333333333333 %)
+Fantasy : 3 (50.0 %)
+Sci-Fi : 4 (66.66666666666666 %)
+Romance : 1 (16.666666666666664 %)
+Mystery : 2 (33.33333333333333 %)
+Horror : 1 (16.666666666666664 %)
+Items with country: 6
+US : 5 (83.33333333333334 %)
+GB : 1 (16.666666666666664 %)
+Drama shows 
+
+#### CLUSTER 51 ####
+Items in cluster: 2
+Items with predefined genre: 2
+Action : 2 (100.0 %)
+Adventure : 1 (50.0 %)
+Crime : 2 (100.0 %)
+Drama : 2 (100.0 %)
+Mystery : 2 (100.0 %)
+Sci-Fi : 2 (100.0 %)
+Thriller : 1 (50.0 %)
+Items with country: 2
+US : 2 (100.0 %)
+Action Crime Drama Mystery Sci-Fi shows from US 
+
+#### CLUSTER 52 ####
+Items in cluster: 15
+Items with predefined genre: 15
+Comedy : 14 (93.33333333333333 %)
+Family : 11 (73.33333333333333 %)
+Drama : 5 (33.33333333333333 %)
+Fantasy : 1 (6.666666666666667 %)
+Romance : 3 (20.0 %)
+Thriller : 1 (6.666666666666667 %)
+Music : 3 (20.0 %)
+Animation : 2 (13.333333333333334 %)
+Adventure : 1 (6.666666666666667 %)
+Sci-Fi : 1 (6.666666666666667 %)
+Items with country: 15
+US : 14 (93.33333333333333 %)
+KR : 1 (6.666666666666667 %)
+DE : 1 (6.666666666666667 %)
+shows 
+
+#### CLUSTER 53 ####
+Items in cluster: 4
+Items with predefined genre: 4
+Comedy : 4 (100.0 %)
+War : 1 (25.0 %)
+Animation : 1 (25.0 %)
+Action : 1 (25.0 %)
+Drama : 1 (25.0 %)
+Fantasy : 1 (25.0 %)
+Items with country: 4
+GB : 2 (50.0 %)
+AU : 1 (25.0 %)
+US : 2 (50.0 %)
+KR : 1 (25.0 %)
+Comedy shows 
+
+#### CLUSTER 54 ####
+Items in cluster: 7
+Items with predefined genre: 7
+Animation : 7 (100.0 %)
+Action : 7 (100.0 %)
+Drama : 7 (100.0 %)
+Fantasy : 1 (14.285714285714285 %)
+Sci-Fi : 7 (100.0 %)
+War : 3 (42.857142857142854 %)
+Adventure : 1 (14.285714285714285 %)
+Romance : 2 (28.57142857142857 %)
+Items with country: 6
+JP : 5 (83.33333333333334 %)
+US : 1 (16.666666666666664 %)
+Animation Action Drama Sci-Fi shows 
+
+#### CLUSTER 55 ####
+Items in cluster: 3
+Items with predefined genre: 3
+Animation : 3 (100.0 %)
+Comedy : 3 (100.0 %)
+Drama : 1 (33.33333333333333 %)
+Fantasy : 1 (33.33333333333333 %)
+Romance : 3 (100.0 %)
+Thriller : 1 (33.33333333333333 %)
+Items with country: 3
+JP : 3 (100.0 %)
+Animation Comedy Romance shows from JP 
+
+#### CLUSTER 56 ####
+Items in cluster: 9
+Items with predefined genre: 9
+Drama : 9 (100.0 %)
+Mystery : 6 (66.66666666666666 %)
+Sci-Fi : 7 (77.77777777777779 %)
+Thriller : 5 (55.55555555555556 %)
+Adventure : 2 (22.22222222222222 %)
+Comedy : 2 (22.22222222222222 %)
+Romance : 3 (33.33333333333333 %)
+Action : 3 (33.33333333333333 %)
+Fantasy : 5 (55.55555555555556 %)
+Crime : 1 (11.11111111111111 %)
+Horror : 1 (11.11111111111111 %)
+Items with country: 9
+US : 6 (66.66666666666666 %)
+GB : 2 (22.22222222222222 %)
+FR : 1 (11.11111111111111 %)
+DE : 1 (11.11111111111111 %)
+IE : 1 (11.11111111111111 %)
+CA : 3 (33.33333333333333 %)
+Drama shows 
+
+#### CLUSTER 57 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 5 (100.0 %)
+Action : 5 (100.0 %)
+Adventure : 5 (100.0 %)
+Sci-Fi : 4 (80.0 %)
+Thriller : 3 (60.0 %)
+Family : 3 (60.0 %)
+Fantasy : 2 (40.0 %)
+Comedy : 2 (40.0 %)
+Drama : 2 (40.0 %)
+Mystery : 1 (20.0 %)
+Items with country: 5
+JP : 5 (100.0 %)
+ES : 3 (60.0 %)
+MX : 3 (60.0 %)
+Animation Action Adventure shows from JP 
+
+#### CLUSTER 58 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Comedy : 2 (40.0 %)
+Drama : 5 (100.0 %)
+Fantasy : 5 (100.0 %)
+Horror : 3 (60.0 %)
+Crime : 1 (20.0 %)
+Mystery : 2 (40.0 %)
+Romance : 3 (60.0 %)
+Thriller : 3 (60.0 %)
+Animation : 1 (20.0 %)
+Adventure : 1 (20.0 %)
+Family : 1 (20.0 %)
+Action : 1 (20.0 %)
+Items with country: 5
+GB : 1 (20.0 %)
+US : 4 (80.0 %)
+AU : 1 (20.0 %)
+Drama Fantasy shows 
+
+#### CLUSTER 59 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Crime : 5 (100.0 %)
+Drama : 4 (80.0 %)
+Thriller : 3 (60.0 %)
+Comedy : 2 (40.0 %)
+Mystery : 4 (80.0 %)
+Romance : 1 (20.0 %)
+Action : 1 (20.0 %)
+Items with country: 5
+US : 5 (100.0 %)
+Crime shows from US 
+
+#### CLUSTER 60 ####
+Items in cluster: 7
+Items with predefined genre: 7
+Comedy : 6 (85.71428571428571 %)
+Romance : 4 (57.14285714285714 %)
+Family : 2 (28.57142857142857 %)
+Drama : 5 (71.42857142857143 %)
+Items with country: 7
+US : 6 (85.71428571428571 %)
+CA : 1 (14.285714285714285 %)
+shows 
+
+#### CLUSTER 61 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 5 (100.0 %)
+Action : 5 (100.0 %)
+Adventure : 3 (60.0 %)
+Comedy : 3 (60.0 %)
+Sci-Fi : 5 (100.0 %)
+Drama : 1 (20.0 %)
+Fantasy : 1 (20.0 %)
+Romance : 1 (20.0 %)
+Thriller : 1 (20.0 %)
+Family : 1 (20.0 %)
+Items with country: 5
+US : 5 (100.0 %)
+CA : 2 (40.0 %)
+Animation Action Sci-Fi shows from US 
+
+#### CLUSTER 62 ####
+Items in cluster: 6
+Items with predefined genre: 6
+Animation : 6 (100.0 %)
+Action : 2 (33.33333333333333 %)
+Adventure : 2 (33.33333333333333 %)
+Comedy : 6 (100.0 %)
+Romance : 3 (50.0 %)
+Sci-Fi : 1 (16.666666666666664 %)
+Sport : 2 (33.33333333333333 %)
+Drama : 4 (66.66666666666666 %)
+Fantasy : 3 (50.0 %)
+Thriller : 2 (33.33333333333333 %)
+Items with country: 5
+JP : 5 (100.0 %)
+Animation Comedy shows from JP 
+
+#### CLUSTER 63 ####
+Items in cluster: 6
+Items with predefined genre: 6
+Animation : 6 (100.0 %)
+Comedy : 6 (100.0 %)
+Drama : 2 (33.33333333333333 %)
+Fantasy : 5 (83.33333333333334 %)
+Romance : 5 (83.33333333333334 %)
+Action : 3 (50.0 %)
+Sci-Fi : 4 (66.66666666666666 %)
+Adventure : 2 (33.33333333333333 %)
+Items with country: 6
+JP : 6 (100.0 %)
+Animation Comedy shows from JP 
+
+#### CLUSTER 64 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 5 (100.0 %)
+Comedy : 5 (100.0 %)
+Family : 2 (40.0 %)
+Sci-Fi : 4 (80.0 %)
+Action : 3 (60.0 %)
+Fantasy : 1 (20.0 %)
+Drama : 1 (20.0 %)
+Adventure : 1 (20.0 %)
+Mystery : 1 (20.0 %)
+Items with country: 4
+JP : 3 (75.0 %)
+FR : 1 (25.0 %)
+KR : 1 (25.0 %)
+US : 1 (25.0 %)
+CA : 1 (25.0 %)
+Animation Comedy shows 
+
+#### CLUSTER 65 ####
+Items in cluster: 9
+Items with predefined genre: 9
+Animation : 9 (100.0 %)
+Action : 7 (77.77777777777779 %)
+Adventure : 9 (100.0 %)
+Comedy : 7 (77.77777777777779 %)
+Family : 8 (88.88888888888889 %)
+Sci-Fi : 6 (66.66666666666666 %)
+Fantasy : 7 (77.77777777777779 %)
+Drama : 3 (33.33333333333333 %)
+Romance : 1 (11.11111111111111 %)
+Items with country: 9
+US : 5 (55.55555555555556 %)
+JP : 4 (44.44444444444444 %)
+CA : 3 (33.33333333333333 %)
+FR : 1 (11.11111111111111 %)
+DE : 1 (11.11111111111111 %)
+Animation Adventure shows 
+
+#### CLUSTER 66 ####
+Items in cluster: 11
+Items with predefined genre: 11
+Animation : 5 (45.45454545454545 %)
+Comedy : 10 (90.9090909090909 %)
+Drama : 2 (18.181818181818183 %)
+Romance : 1 (9.090909090909092 %)
+Music : 1 (9.090909090909092 %)
+Game-Show : 2 (18.181818181818183 %)
+News : 2 (18.181818181818183 %)
+Talk-Show : 2 (18.181818181818183 %)
+Family : 1 (9.090909090909092 %)
+Adventure : 2 (18.181818181818183 %)
+Reality-TV : 3 (27.27272727272727 %)
+Fantasy : 1 (9.090909090909092 %)
+History : 1 (9.090909090909092 %)
+Items with country: 11
+US : 8 (72.72727272727273 %)
+GB : 2 (18.181818181818183 %)
+MX : 1 (9.090909090909092 %)
+shows 
+
+#### CLUSTER 67 ####
+Items in cluster: 13
+Items with predefined genre: 13
+Action : 12 (92.3076923076923 %)
+Adventure : 11 (84.61538461538461 %)
+Drama : 10 (76.92307692307693 %)
+Fantasy : 10 (76.92307692307693 %)
+Mystery : 3 (23.076923076923077 %)
+Sci-Fi : 12 (92.3076923076923 %)
+Comedy : 11 (84.61538461538461 %)
+Animation : 3 (23.076923076923077 %)
+Thriller : 4 (30.76923076923077 %)
+Talk-Show : 1 (7.6923076923076925 %)
+Crime : 1 (7.6923076923076925 %)
+Family : 2 (15.384615384615385 %)
+Items with country: 13
+JP : 11 (84.61538461538461 %)
+KR : 5 (38.46153846153847 %)
+US : 2 (15.384615384615385 %)
+shows 
+
+#### CLUSTER 68 ####
+Items in cluster: 2
+Items with predefined genre: 2
+Adventure : 1 (50.0 %)
+Comedy : 2 (100.0 %)
+Drama : 1 (50.0 %)
+Family : 2 (100.0 %)
+Fantasy : 2 (100.0 %)
+Items with country: 2
+US : 2 (100.0 %)
+Comedy Family Fantasy shows from US 
+
+#### CLUSTER 69 ####
+Items in cluster: 3
+Items with predefined genre: 3
+Animation : 1 (33.33333333333333 %)
+Action : 1 (33.33333333333333 %)
+Comedy : 1 (33.33333333333333 %)
+Adventure : 1 (33.33333333333333 %)
+Game-Show : 1 (33.33333333333333 %)
+Reality-TV : 1 (33.33333333333333 %)
+Items with country: 3
+US : 2 (66.66666666666666 %)
+JP : 1 (33.33333333333333 %)
+shows 
+
+#### CLUSTER 70 ####
+Items in cluster: 5
+Items with predefined genre: 5
+Animation : 5 (100.0 %)
+Comedy : 5 (100.0 %)
+Drama : 2 (40.0 %)
+Family : 2 (40.0 %)
+Music : 1 (20.0 %)
+Romance : 1 (20.0 %)
+Items with country: 5
+JP : 5 (100.0 %)
+DE : 1 (20.0 %)
+Animation Comedy shows from JP 
+
+#### CLUSTER 71 ####
+Items in cluster: 3
+Items with predefined genre: 3
+Animation : 3 (100.0 %)
+Action : 3 (100.0 %)
+Music : 2 (66.66666666666666 %)
+Romance : 2 (66.66666666666666 %)
+Sci-Fi : 3 (100.0 %)
+Adventure : 2 (66.66666666666666 %)
+Drama : 1 (33.33333333333333 %)
+Items with country: 2
+JP : 2 (100.0 %)
+Animation Action Sci-Fi shows from JP 
+
+#### CLUSTER 72 ####
+Items in cluster: 4
+Items with predefined genre: 4
+Action : 4 (100.0 %)
+Adventure : 4 (100.0 %)
+Crime : 4 (100.0 %)
+Drama : 2 (50.0 %)
+Comedy : 1 (25.0 %)
+Family : 1 (25.0 %)
+Mystery : 1 (25.0 %)
+Sci-Fi : 1 (25.0 %)
+Thriller : 1 (25.0 %)
+Items with country: 4
+CA : 1 (25.0 %)
+US : 4 (100.0 %)
+Action Adventure Crime shows from US 
+
+
+60 clusters have characterstic genre (83.33333333333334%)
+
+
+473 titles being analysed wrt imdb communities
+(A)RI Scores of how well they match: 1 best 0 low
+ARI:
+0.12152190783948898
+RI:
+0.8726215644820295

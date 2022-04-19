@@ -1,0 +1,1366 @@
+Number of clusters: 
+3
+
+#### CLUSTER 1 ####
+Items in cluster: 3738
+Items with predefined genre: 2468
+adventure : 877 (35.53484602917342 %)
+simulation : 235 (9.521880064829821 %)
+action : 1210 (49.027552674230144 %)
+arcade : 400 (16.207455429497568 %)
+platformer : 314 (12.72285251215559 %)
+massively-multiplayer : 27 (1.094003241491086 %)
+indie : 787 (31.888168557536467 %)
+puzzle : 217 (8.79254457050243 %)
+shooter : 180 (7.293354943273905 %)
+role-playing-games-rpg : 262 (10.615883306320907 %)
+strategy : 213 (8.630470016207456 %)
+casual : 274 (11.102106969205835 %)
+sports : 57 (2.3095623987034037 %)
+racing : 96 (3.889789303079417 %)
+fighting : 61 (2.471636952998379 %)
+board-games : 14 (0.5672609400324149 %)
+family : 30 (1.2155591572123177 %)
+card : 4 (0.1620745542949757 %)
+educational : 31 (1.2560777957860616 %)
+Items with country: 1521
+US : 710 (46.67981591058514 %)
+GB : 231 (15.187376725838265 %)
+JP : 544 (35.76594345825115 %)
+DK : 10 (0.6574621959237344 %)
+FR : 75 (4.930966469428008 %)
+IL : 1 (0.06574621959237344 %)
+MY : 6 (0.39447731755424065 %)
+DE : 48 (3.155818540433925 %)
+HR : 5 (0.3287310979618672 %)
+SE : 41 (2.695595003287311 %)
+AT : 7 (0.46022353714661407 %)
+CA : 98 (6.443129520052597 %)
+CN : 73 (4.79947403024326 %)
+TW : 8 (0.5259697567389875 %)
+SG : 57 (3.7475345167652856 %)
+NZ : 7 (0.46022353714661407 %)
+ES : 34 (2.235371466140697 %)
+NL : 18 (1.183431952662722 %)
+FI : 20 (1.314924391847469 %)
+IT : 16 (1.051939513477975 %)
+KR : 14 (0.9204470742932281 %)
+PL : 14 (0.9204470742932281 %)
+IN : 10 (0.6574621959237344 %)
+RU : 15 (0.9861932938856016 %)
+VN : 4 (0.26298487836949375 %)
+CL : 4 (0.26298487836949375 %)
+BR : 9 (0.591715976331361 %)
+BY : 5 (0.3287310979618672 %)
+BG : 5 (0.3287310979618672 %)
+MX : 6 (0.39447731755424065 %)
+UA : 9 (0.591715976331361 %)
+TH : 7 (0.46022353714661407 %)
+RO : 5 (0.3287310979618672 %)
+HU : 9 (0.591715976331361 %)
+AU : 30 (1.9723865877712032 %)
+AR : 5 (0.3287310979618672 %)
+ZA : 6 (0.39447731755424065 %)
+PH : 5 (0.3287310979618672 %)
+CO : 4 (0.26298487836949375 %)
+ID : 5 (0.3287310979618672 %)
+AE : 4 (0.26298487836949375 %)
+LU : 2 (0.13149243918474687 %)
+BE : 3 (0.19723865877712032 %)
+CZ : 5 (0.3287310979618672 %)
+TR : 4 (0.26298487836949375 %)
+CR : 1 (0.06574621959237344 %)
+NO : 4 (0.26298487836949375 %)
+IE : 2 (0.13149243918474687 %)
+SK : 1 (0.06574621959237344 %)
+EG : 1 (0.06574621959237344 %)
+MT : 1 (0.06574621959237344 %)
+PT : 1 (0.06574621959237344 %)
+shows 
+
+#### CLUSTER 2 ####
+Items in cluster: 3860
+Items with predefined genre: 3125
+adventure : 1211 (38.751999999999995 %)
+role-playing-games-rpg : 809 (25.887999999999998 %)
+action : 1628 (52.096 %)
+strategy : 538 (17.216 %)
+simulation : 301 (9.632 %)
+indie : 751 (24.032 %)
+fighting : 162 (5.183999999999999 %)
+arcade : 203 (6.496 %)
+puzzle : 180 (5.76 %)
+massively-multiplayer : 84 (2.688 %)
+shooter : 411 (13.152 %)
+family : 34 (1.088 %)
+casual : 169 (5.408 %)
+platformer : 142 (4.5440000000000005 %)
+racing : 52 (1.664 %)
+sports : 28 (0.8959999999999999 %)
+card : 18 (0.5760000000000001 %)
+board-games : 7 (0.22399999999999998 %)
+educational : 15 (0.48 %)
+Items with country: 2256
+US : 1122 (49.734042553191486 %)
+JP : 643 (28.50177304964539 %)
+RO : 20 (0.8865248226950355 %)
+PL : 53 (2.349290780141844 %)
+DE : 134 (5.939716312056738 %)
+GB : 277 (12.27836879432624 %)
+ES : 44 (1.950354609929078 %)
+FR : 109 (4.831560283687943 %)
+KR : 29 (1.2854609929078014 %)
+GR : 1 (0.044326241134751775 %)
+CN : 72 (3.1914893617021276 %)
+DK : 27 (1.196808510638298 %)
+TW : 17 (0.7535460992907801 %)
+CZ : 14 (0.6205673758865249 %)
+NL : 29 (1.2854609929078014 %)
+CA : 236 (10.460992907801419 %)
+SE : 102 (4.521276595744681 %)
+SG : 48 (2.127659574468085 %)
+SK : 6 (0.26595744680851063 %)
+AU : 36 (1.5957446808510638 %)
+TR : 6 (0.26595744680851063 %)
+BR : 12 (0.5319148936170213 %)
+MX : 13 (0.576241134751773 %)
+RU : 61 (2.7039007092198584 %)
+IN : 18 (0.7978723404255319 %)
+IE : 11 (0.4875886524822695 %)
+BY : 15 (0.6648936170212766 %)
+LT : 3 (0.13297872340425532 %)
+LV : 2 (0.08865248226950355 %)
+IT : 17 (0.7535460992907801 %)
+UA : 25 (1.1081560283687943 %)
+MT : 4 (0.1773049645390071 %)
+AR : 11 (0.4875886524822695 %)
+FI : 17 (0.7535460992907801 %)
+BE : 8 (0.3546099290780142 %)
+CO : 10 (0.44326241134751776 %)
+HU : 17 (0.7535460992907801 %)
+NO : 10 (0.44326241134751776 %)
+BG : 17 (0.7535460992907801 %)
+UY : 1 (0.044326241134751775 %)
+HR : 4 (0.1773049645390071 %)
+VN : 8 (0.3546099290780142 %)
+CL : 12 (0.5319148936170213 %)
+TH : 9 (0.39893617021276595 %)
+ZA : 11 (0.4875886524822695 %)
+MY : 12 (0.5319148936170213 %)
+PH : 9 (0.39893617021276595 %)
+ID : 10 (0.44326241134751776 %)
+AE : 8 (0.3546099290780142 %)
+AT : 19 (0.8421985815602837 %)
+CY : 3 (0.13297872340425532 %)
+NZ : 3 (0.13297872340425532 %)
+PT : 1 (0.044326241134751775 %)
+PE : 1 (0.044326241134751775 %)
+PK : 1 (0.044326241134751775 %)
+CyprusBelarus : 3 (0.13297872340425532 %)
+shows 
+
+#### CLUSTER 3 ####
+Items in cluster: 1055
+Items with predefined genre: 749
+role-playing-games-rpg : 562 (75.03337783711615 %)
+indie : 111 (14.819759679572764 %)
+adventure : 186 (24.833110814419225 %)
+simulation : 27 (3.6048064085447264 %)
+strategy : 111 (14.819759679572764 %)
+action : 228 (30.440587449933243 %)
+shooter : 2 (0.26702269692923897 %)
+fighting : 32 (4.2723631508678235 %)
+arcade : 22 (2.9372496662216285 %)
+card : 11 (1.4686248331108143 %)
+casual : 29 (3.871829105473965 %)
+massively-multiplayer : 32 (4.2723631508678235 %)
+puzzle : 15 (2.0026702269692924 %)
+sports : 2 (0.26702269692923897 %)
+racing : 1 (0.13351134846461948 %)
+board-games : 3 (0.4005340453938585 %)
+family : 1 (0.13351134846461948 %)
+platformer : 5 (0.6675567423230975 %)
+Items with country: 599
+JP : 440 (73.45575959933221 %)
+DE : 8 (1.335559265442404 %)
+CA : 18 (3.005008347245409 %)
+US : 214 (35.72621035058431 %)
+FR : 14 (2.337228714524207 %)
+PL : 3 (0.5008347245409015 %)
+CN : 27 (4.507512520868113 %)
+NZ : 1 (0.1669449081803005 %)
+SG : 23 (3.8397328881469113 %)
+GB : 28 (4.674457429048414 %)
+SE : 5 (0.8347245409015025 %)
+AT : 2 (0.333889816360601 %)
+CH : 3 (0.5008347245409015 %)
+KR : 16 (2.671118530884808 %)
+MY : 2 (0.333889816360601 %)
+ID : 4 (0.667779632721202 %)
+BE : 1 (0.1669449081803005 %)
+NO : 1 (0.1669449081803005 %)
+VN : 1 (0.1669449081803005 %)
+CL : 1 (0.1669449081803005 %)
+BR : 1 (0.1669449081803005 %)
+ES : 1 (0.1669449081803005 %)
+BY : 1 (0.1669449081803005 %)
+BG : 1 (0.1669449081803005 %)
+MX : 1 (0.1669449081803005 %)
+UA : 1 (0.1669449081803005 %)
+TH : 1 (0.1669449081803005 %)
+RO : 1 (0.1669449081803005 %)
+IT : 2 (0.333889816360601 %)
+HU : 1 (0.1669449081803005 %)
+RU : 1 (0.1669449081803005 %)
+IN : 2 (0.333889816360601 %)
+AU : 2 (0.333889816360601 %)
+AR : 1 (0.1669449081803005 %)
+ZA : 1 (0.1669449081803005 %)
+PH : 1 (0.1669449081803005 %)
+TW : 1 (0.1669449081803005 %)
+DK : 3 (0.5008347245409015 %)
+CO : 1 (0.1669449081803005 %)
+AE : 1 (0.1669449081803005 %)
+FI : 1 (0.1669449081803005 %)
+IE : 1 (0.1669449081803005 %)
+PK : 1 (0.1669449081803005 %)
+NL : 1 (0.1669449081803005 %)
+shows 
+
+
+0 clusters have characterstic genre (0.0%)
+
+
+2095 titles being analysed wrt series
+377 series included
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+14 games in series out of 8653 titles in topSBM clusters: ( 0.16179359759620943%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+9 games in series out of 8653 titles in topSBM clusters: ( 0.10401016988327748%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5061728395061729
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+15 games in series out of 8653 titles in topSBM clusters: ( 0.17335028313879577%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.768888888888889
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+17 games in series out of 8653 titles in topSBM clusters: ( 0.19646365422396855%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7551020408163265
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+10 games in series out of 8653 titles in topSBM clusters: ( 0.11556685542586387%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+15 games in series out of 8653 titles in topSBM clusters: ( 0.17335028313879577%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.5022222222222222
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+17 games in series out of 8653 titles in topSBM clusters: ( 0.19646365422396855%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+28 games in series out of 8653 titles in topSBM clusters: ( 0.32358719519241885%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.4362244897959184
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7551020408163265
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+20 games in series out of 8653 titles in topSBM clusters: ( 0.23113371085172774%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+12 games in series out of 8653 titles in topSBM clusters: ( 0.13868022651103662%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8472222222222221
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7222222222222223
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+15 games in series out of 8653 titles in topSBM clusters: ( 0.17335028313879577%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.5022222222222222
+20 games in series out of 8653 titles in topSBM clusters: ( 0.23113371085172774%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8200000000000001
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+11 games in series out of 8653 titles in topSBM clusters: ( 0.12712354096845027%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8347107438016528
+9 games in series out of 8653 titles in topSBM clusters: ( 0.10401016988327748%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8024691358024691
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+44 games in series out of 8653 titles in topSBM clusters: ( 0.5084941638738011%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.7592975206611571
+15 games in series out of 8653 titles in topSBM clusters: ( 0.17335028313879577%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6088888888888888
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+9 games in series out of 8653 titles in topSBM clusters: ( 0.10401016988327748%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.46875
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+10 games in series out of 8653 titles in topSBM clusters: ( 0.11556685542586387%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8200000000000001
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+14 games in series out of 8653 titles in topSBM clusters: ( 0.16179359759620943%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+11 games in series out of 8653 titles in topSBM clusters: ( 0.12712354096845027%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+10 games in series out of 8653 titles in topSBM clusters: ( 0.11556685542586387%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.52
+24 games in series out of 8653 titles in topSBM clusters: ( 0.27736045302207324%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.9201388888888891
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5918367346938775
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5918367346938775
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+12 games in series out of 8653 titles in topSBM clusters: ( 0.13868022651103662%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+12 games in series out of 8653 titles in topSBM clusters: ( 0.13868022651103662%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8472222222222221
+13 games in series out of 8653 titles in topSBM clusters: ( 0.15023691205362302%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8579881656804735
+25 games in series out of 8653 titles in topSBM clusters: ( 0.28891713856465967%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.52
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.44000000000000006
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+10 games in series out of 8653 titles in topSBM clusters: ( 0.11556685542586387%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5918367346938775
+9 games in series out of 8653 titles in topSBM clusters: ( 0.10401016988327748%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+53 games in series out of 8653 titles in topSBM clusters: ( 0.6125043337570785%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.5585617657529369
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+17 games in series out of 8653 titles in topSBM clusters: ( 0.19646365422396855%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8892733564013842
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.5
+15 games in series out of 8653 titles in topSBM clusters: ( 0.17335028313879577%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.375
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+14 games in series out of 8653 titles in topSBM clusters: ( 0.16179359759620943%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.5612244897959183
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+14 games in series out of 8653 titles in topSBM clusters: ( 0.16179359759620943%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.3333333333333333
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.42857142857142855
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+13 games in series out of 8653 titles in topSBM clusters: ( 0.15023691205362302%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.3372781065088758
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+12 games in series out of 8653 titles in topSBM clusters: ( 0.13868022651103662%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.7083333333333334
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.375
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+37 games in series out of 8653 titles in topSBM clusters: ( 0.4275973650756963%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.41855368882395905
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+14 games in series out of 8653 titles in topSBM clusters: ( 0.16179359759620943%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.42857142857142855
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+14 games in series out of 8653 titles in topSBM clusters: ( 0.16179359759620943%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7551020408163265
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+12 games in series out of 8653 titles in topSBM clusters: ( 0.13868022651103662%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.5972222222222222
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+20 games in series out of 8653 titles in topSBM clusters: ( 0.23113371085172774%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.9049999999999999
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5918367346938775
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.52
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5918367346938775
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+12 games in series out of 8653 titles in topSBM clusters: ( 0.13868022651103662%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8472222222222221
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+11 games in series out of 8653 titles in topSBM clusters: ( 0.12712354096845027%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8347107438016528
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+53 games in series out of 8653 titles in topSBM clusters: ( 0.6125043337570785%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.4937700249199003
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.52
+9 games in series out of 8653 titles in topSBM clusters: ( 0.10401016988327748%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.654320987654321
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+15 games in series out of 8653 titles in topSBM clusters: ( 0.17335028313879577%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+11 games in series out of 8653 titles in topSBM clusters: ( 0.12712354096845027%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7024793388429753
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.59375
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+14 games in series out of 8653 titles in topSBM clusters: ( 0.16179359759620943%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7551020408163265
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.52
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.3333333333333333
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+12 games in series out of 8653 titles in topSBM clusters: ( 0.13868022651103662%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7222222222222223
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7551020408163265
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+26 games in series out of 8653 titles in topSBM clusters: ( 0.30047382410724605%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.7899408284023668
+33 games in series out of 8653 titles in topSBM clusters: ( 0.38137062290535073%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.8310376492194673
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7222222222222223
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+9 games in series out of 8653 titles in topSBM clusters: ( 0.10401016988327748%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+9 games in series out of 8653 titles in topSBM clusters: ( 0.10401016988327748%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8024691358024691
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+7 games in series out of 8653 titles in topSBM clusters: ( 0.08089679879810471%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+18 games in series out of 8653 titles in topSBM clusters: ( 0.20802033976655496%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.4876543209876544
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.3600000000000001
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+12 games in series out of 8653 titles in topSBM clusters: ( 0.13868022651103662%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.7222222222222223
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6800000000000002
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+9 games in series out of 8653 titles in topSBM clusters: ( 0.10401016988327748%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8024691358024691
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+30 games in series out of 8653 titles in topSBM clusters: ( 0.34670056627759155%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.41333333333333333
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+11 games in series out of 8653 titles in topSBM clusters: ( 0.12712354096845027%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5041322314049586
+13 games in series out of 8653 titles in topSBM clusters: ( 0.15023691205362302%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8579881656804735
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+4 games in series out of 8653 titles in topSBM clusters: ( 0.046226742170345544%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.59375
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+5 games in series out of 8653 titles in topSBM clusters: ( 0.057783427712931934%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.52
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.625
+6 games in series out of 8653 titles in topSBM clusters: ( 0.06934011325551831%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.78125
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.5555555555555556
+11 games in series out of 8653 titles in topSBM clusters: ( 0.12712354096845027%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.8347107438016528
+2 games in series out of 8653 titles in topSBM clusters: ( 0.023113371085172772%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+8 games in series out of 8653 titles in topSBM clusters: ( 0.09245348434069109%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.59375
+3 games in series out of 8653 titles in topSBM clusters: ( 0.034670056627759155%)
+1 clusters represented out of 3: (33.33333333333333%)
+!! Herfindahl-Hirschman Index: 1.0
+14 games in series out of 8653 titles in topSBM clusters: ( 0.16179359759620943%)
+2 clusters represented out of 3: (66.66666666666666%)
+!! Herfindahl-Hirschman Index: 0.6632653061224489
+15 games in series out of 8653 titles in topSBM clusters: ( 0.17335028313879577%)
+3 clusters represented out of 3: (100.0%)
+!! Herfindahl-Hirschman Index: 0.5822222222222222
