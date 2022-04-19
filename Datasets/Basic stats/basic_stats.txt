@@ -1,0 +1,8 @@
+TV total works: 9963
+Games total works: 8653
+TV total number of tropes: 28703
+Games total number of tropes: 26950
+Mean number of tropes per tv show: 144.34387232761216
+Mean number of tropes per game: 123.24257482953888
+Mean number of occurances per trope (tv): 50.10270703410793
+Mean number of occurances per trope (games): 39.57024118738404

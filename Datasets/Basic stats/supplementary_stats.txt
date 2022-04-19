@@ -1,0 +1,667 @@
+COUNTRIES TV
+US: total number of works 4450
+Percentage in dataset: 47.55797798439671
+JP: total number of works 1955
+Percentage in dataset: 20.893448754942824
+GB: total number of works 1445
+Percentage in dataset: 15.442983862349044
+CA: total number of works 948
+Percentage in dataset: 10.131452388586085
+FR: total number of works 380
+Percentage in dataset: 4.061130704285562
+KR: total number of works 288
+Percentage in dataset: 3.0779095864058994
+AU: total number of works 286
+Percentage in dataset: 3.0565352142780804
+DE: total number of works 159
+Percentage in dataset: 1.6992625841615903
+CN: total number of works 145
+Percentage in dataset: 1.549641979266859
+ES: total number of works 118
+Percentage in dataset: 1.261087955541306
+MX: total number of works 87
+Percentage in dataset: 0.9297851875601153
+IT: total number of works 87
+Percentage in dataset: 0.9297851875601153
+IE: total number of works 83
+Percentage in dataset: 0.887036443304478
+SE: total number of works 46
+Percentage in dataset: 0.4916105589398311
+BE: total number of works 44
+Percentage in dataset: 0.4702361868120124
+NZ: total number of works 43
+Percentage in dataset: 0.459549000748103
+PH: total number of works 39
+Percentage in dataset: 0.41680025649246555
+DK: total number of works 39
+Percentage in dataset: 0.41680025649246555
+NL: total number of works 38
+Percentage in dataset: 0.40611307042855616
+AR: total number of works 38
+Percentage in dataset: 0.40611307042855616
+IN: total number of works 38
+Percentage in dataset: 0.40611307042855616
+NO: total number of works 29
+Percentage in dataset: 0.3099283958533718
+XWG: total number of works 25
+Percentage in dataset: 0.2671796515977343
+TW: total number of works 24
+Percentage in dataset: 0.25649246553382493
+BR: total number of works 22
+Percentage in dataset: 0.2351180934060062
+HK: total number of works 20
+Percentage in dataset: 0.21374372127818744
+ZA: total number of works 20
+Percentage in dataset: 0.21374372127818744
+RU: total number of works 18
+Percentage in dataset: 0.1923693491503687
+TR: total number of works 17
+Percentage in dataset: 0.18168216308645935
+PL: total number of works 16
+Percentage in dataset: 0.17099497702254995
+HU: total number of works 15
+Percentage in dataset: 0.1603077909586406
+FI: total number of works 12
+Percentage in dataset: 0.12824623276691247
+SG: total number of works 12
+Percentage in dataset: 0.12824623276691247
+CL: total number of works 11
+Percentage in dataset: 0.1175590467030031
+MY: total number of works 10
+Percentage in dataset: 0.10687186063909372
+LU: total number of works 10
+Percentage in dataset: 0.10687186063909372
+CO: total number of works 10
+Percentage in dataset: 0.10687186063909372
+CH: total number of works 10
+Percentage in dataset: 0.10687186063909372
+CZ: total number of works 9
+Percentage in dataset: 0.09618467457518436
+AT: total number of works 9
+Percentage in dataset: 0.09618467457518436
+IL: total number of works 9
+Percentage in dataset: 0.09618467457518436
+SUHH: total number of works 8
+Percentage in dataset: 0.08549748851127498
+RO: total number of works 6
+Percentage in dataset: 0.06412311638345623
+TH: total number of works 6
+Percentage in dataset: 0.06412311638345623
+UA: total number of works 5
+Percentage in dataset: 0.05343593031954686
+BG: total number of works 5
+Percentage in dataset: 0.05343593031954686
+CSHH: total number of works 5
+Percentage in dataset: 0.05343593031954686
+IS: total number of works 4
+Percentage in dataset: 0.04274874425563749
+PT: total number of works 4
+Percentage in dataset: 0.04274874425563749
+ID: total number of works 4
+Percentage in dataset: 0.04274874425563749
+GR: total number of works 3
+Percentage in dataset: 0.032061558191728116
+XKO: total number of works 2
+Percentage in dataset: 0.021374372127818744
+VE: total number of works 2
+Percentage in dataset: 0.021374372127818744
+KZ: total number of works 2
+Percentage in dataset: 0.021374372127818744
+DDDE: total number of works 2
+Percentage in dataset: 0.021374372127818744
+JO: total number of works 2
+Percentage in dataset: 0.021374372127818744
+PE: total number of works 2
+Percentage in dataset: 0.021374372127818744
+HR: total number of works 1
+Percentage in dataset: 0.010687186063909372
+KP: total number of works 1
+Percentage in dataset: 0.010687186063909372
+XYU: total number of works 1
+Percentage in dataset: 0.010687186063909372
+IM: total number of works 1
+Percentage in dataset: 0.010687186063909372
+DZ: total number of works 1
+Percentage in dataset: 0.010687186063909372
+IR: total number of works 1
+Percentage in dataset: 0.010687186063909372
+BT: total number of works 1
+Percentage in dataset: 0.010687186063909372
+SK: total number of works 1
+Percentage in dataset: 0.010687186063909372
+CY: total number of works 1
+Percentage in dataset: 0.010687186063909372
+BW: total number of works 1
+Percentage in dataset: 0.010687186063909372
+RW: total number of works 1
+Percentage in dataset: 0.010687186063909372
+RS: total number of works 1
+Percentage in dataset: 0.010687186063909372
+LV: total number of works 1
+Percentage in dataset: 0.010687186063909372
+MC: total number of works 1
+Percentage in dataset: 0.010687186063909372
+MT: total number of works 1
+Percentage in dataset: 0.010687186063909372
+PK: total number of works 1
+Percentage in dataset: 0.010687186063909372
+CR: total number of works 1
+Percentage in dataset: 0.010687186063909372
+AM: total number of works 1
+Percentage in dataset: 0.010687186063909372
+Number of works involving multiple countries: 1255
+Distribution of number of genres
+    counts  num_works
+0        1       8102
+1        2        920
+2        3        213
+3        4         85
+4        5         23
+5        6          3
+6        7          4
+7        8          4
+8        9          1
+9       10          1
+10      11          1
+GENRES TV
+Comedy: total number of works 4362
+Percentage in dataset: 45.60853199498118
+Animation: total number of works 3969
+Percentage in dataset: 41.499372647427855
+Drama: total number of works 3530
+Percentage in dataset: 36.909242994562945
+Family: total number of works 2291
+Percentage in dataset: 23.95441237975742
+Adventure: total number of works 2192
+Percentage in dataset: 22.919280635717275
+Action: total number of works 2180
+Percentage in dataset: 22.793810121288164
+Fantasy: total number of works 2066
+Percentage in dataset: 21.60184023421163
+Sci-Fi: total number of works 1893
+Percentage in dataset: 19.79297365119197
+Romance: total number of works 1178
+Percentage in dataset: 12.31702216645755
+Mystery: total number of works 1165
+Percentage in dataset: 12.181095775826014
+Crime: total number of works 1072
+Percentage in dataset: 11.208699289000418
+Thriller: total number of works 1016
+Percentage in dataset: 10.623170221664575
+Horror: total number of works 497
+Percentage in dataset: 5.196570472605604
+Reality-TV: total number of works 381
+Percentage in dataset: 3.9836888331242157
+Game-Show: total number of works 370
+Percentage in dataset: 3.8686741948975327
+Short: total number of works 343
+Percentage in dataset: 3.586365537432037
+History: total number of works 304
+Percentage in dataset: 3.178586365537432
+Music: total number of works 289
+Percentage in dataset: 3.0217482225010457
+Musical: total number of works 210
+Percentage in dataset: 2.1957340025094103
+Documentary: total number of works 190
+Percentage in dataset: 1.9866164784608948
+Sport: total number of works 188
+Percentage in dataset: 1.9657047260560434
+War: total number of works 165
+Percentage in dataset: 1.725219573400251
+Talk-Show: total number of works 115
+Percentage in dataset: 1.2024257632789628
+Western: total number of works 105
+Percentage in dataset: 1.0978670012547052
+Biography: total number of works 89
+Percentage in dataset: 0.9305729820158929
+News: total number of works 69
+Percentage in dataset: 0.7214554579673776
+Adult: total number of works 1
+Percentage in dataset: 0.010455876202425763
+Mean number of genres per tv show: 3.1608113759933083
+    counts  num_works
+0        1       2031
+1        2       1883
+2        3       2023
+3        4       1583
+4        5        992
+5        6        596
+6        7        260
+7        8        125
+8        9         47
+9       10         12
+10      11         11
+11      12          1
+Genres for the 5 works with the most genres
+                               title      genre
+9589                    gravityfalls  Animation
+9590                    gravityfalls     Action
+9591                    gravityfalls  Adventure
+9592                    gravityfalls     Comedy
+9593                    gravityfalls      Drama
+9594                    gravityfalls     Family
+9595                    gravityfalls    Fantasy
+9596                    gravityfalls     Horror
+9597                    gravityfalls    Mystery
+9598                    gravityfalls     Sci-Fi
+9599                    gravityfalls   Thriller
+12453          sonicthehedgehogsatam  Animation
+12454          sonicthehedgehogsatam      Short
+12455          sonicthehedgehogsatam     Action
+12456          sonicthehedgehogsatam  Adventure
+12457          sonicthehedgehogsatam     Comedy
+12458          sonicthehedgehogsatam     Family
+12459          sonicthehedgehogsatam    Fantasy
+12460          sonicthehedgehogsatam    Mystery
+12461          sonicthehedgehogsatam    Romance
+12462          sonicthehedgehogsatam     Sci-Fi
+12463          sonicthehedgehogsatam   Thriller
+12464          sonicthehedgehogsatam        War
+15644  teenagemutantninjaturtles2012  Animation
+15645  teenagemutantninjaturtles2012     Action
+15646  teenagemutantninjaturtles2012  Adventure
+15647  teenagemutantninjaturtles2012     Comedy
+15648  teenagemutantninjaturtles2012      Crime
+15649  teenagemutantninjaturtles2012      Drama
+15650  teenagemutantninjaturtles2012     Family
+15651  teenagemutantninjaturtles2012    Fantasy
+15652  teenagemutantninjaturtles2012    Mystery
+15653  teenagemutantninjaturtles2012     Sci-Fi
+15654  teenagemutantninjaturtles2012   Thriller
+15910            toddmcfarlanesspawn  Animation
+15911            toddmcfarlanesspawn     Action
+15912            toddmcfarlanesspawn  Adventure
+15913            toddmcfarlanesspawn      Crime
+15914            toddmcfarlanesspawn      Drama
+15915            toddmcfarlanesspawn    Fantasy
+15916            toddmcfarlanesspawn     Horror
+15917            toddmcfarlanesspawn    Mystery
+15918            toddmcfarlanesspawn    Romance
+15919            toddmcfarlanesspawn     Sci-Fi
+15920            toddmcfarlanesspawn   Thriller
+1656             choujinsentaijetman     Action
+1657             choujinsentaijetman  Adventure
+1658             choujinsentaijetman     Comedy
+1659             choujinsentaijetman      Crime
+1660             choujinsentaijetman      Drama
+1661             choujinsentaijetman    Fantasy
+1662             choujinsentaijetman     Horror
+1663             choujinsentaijetman    Mystery
+1664             choujinsentaijetman    Romance
+1665             choujinsentaijetman     Sci-Fi
+1666             choujinsentaijetman   Thriller
+YEARS TV
+    start_year  counts
+0       1930.0       1
+1       1931.0       1
+2       1933.0       1
+3       1934.0       1
+4       1939.0       1
+5       1943.0       1
+6       1947.0       2
+7       1948.0       1
+8       1949.0       2
+9       1950.0       9
+10      1951.0       8
+11      1952.0      10
+12      1953.0       4
+13      1954.0       8
+14      1955.0      12
+15      1956.0      10
+16      1957.0      18
+17      1958.0      20
+18      1959.0      20
+19      1960.0      15
+20      1961.0      27
+21      1962.0      18
+22      1963.0      17
+23      1964.0      31
+24      1965.0      40
+25      1966.0      42
+26      1967.0      34
+27      1968.0      30
+28      1969.0      35
+29      1970.0      29
+30      1971.0      41
+31      1972.0      59
+32      1973.0      51
+33      1974.0      46
+34      1975.0      50
+35      1976.0      58
+36      1977.0      50
+37      1978.0      51
+38      1979.0      62
+39      1980.0      44
+40      1981.0      61
+41      1982.0      56
+42      1983.0      84
+43      1984.0      76
+44      1985.0      83
+45      1986.0      76
+46      1987.0      98
+47      1988.0      75
+48      1989.0      91
+49      1990.0      94
+50      1991.0     101
+51      1992.0      98
+52      1993.0     123
+53      1994.0     127
+54      1995.0     135
+55      1996.0     154
+56      1997.0     158
+57      1998.0     172
+58      1999.0     205
+59      2000.0     173
+60      2001.0     197
+61      2002.0     204
+62      2003.0     215
+63      2004.0     224
+64      2005.0     271
+65      2006.0     276
+66      2007.0     286
+67      2008.0     276
+68      2009.0     307
+69      2010.0     295
+70      2011.0     363
+71      2012.0     321
+72      2013.0     343
+73      2014.0     327
+74      2015.0     355
+75      2016.0     321
+76      2017.0     356
+77      2018.0     328
+78      2019.0     317
+79      2020.0     317
+80      2021.0     275
+COUNTRIES VG
+US: total number of works 2046
+Percentage in dataset: 46.75502742230348
+JP: total number of works 1627
+Percentage in dataset: 37.1800731261426
+GB: total number of works 536
+Percentage in dataset: 12.248628884826324
+CA: total number of works 352
+Percentage in dataset: 8.043875685557587
+FR: total number of works 198
+Percentage in dataset: 4.5246800731261425
+DE: total number of works 190
+Percentage in dataset: 4.341864716636198
+CN: total number of works 172
+Percentage in dataset: 3.930530164533821
+SE: total number of works 148
+Percentage in dataset: 3.3820840950639854
+SG: total number of works 128
+Percentage in dataset: 2.9250457038391224
+ES: total number of works 79
+Percentage in dataset: 1.8053016453382082
+RU: total number of works 77
+Percentage in dataset: 1.7595978062157223
+PL: total number of works 70
+Percentage in dataset: 1.59963436928702
+AU: total number of works 68
+Percentage in dataset: 1.5539305301645339
+KR: total number of works 59
+Percentage in dataset: 1.3482632541133455
+NL: total number of works 48
+Percentage in dataset: 1.0968921389396709
+DK: total number of works 40
+Percentage in dataset: 0.9140767824497258
+FI: total number of works 38
+Percentage in dataset: 0.8683729433272395
+IT: total number of works 35
+Percentage in dataset: 0.79981718464351
+UA: total number of works 35
+Percentage in dataset: 0.79981718464351
+IN: total number of works 30
+Percentage in dataset: 0.6855575868372943
+AT: total number of works 28
+Percentage in dataset: 0.6398537477148081
+HU: total number of works 27
+Percentage in dataset: 0.617001828153565
+RO: total number of works 26
+Percentage in dataset: 0.5941499085923218
+TW: total number of works 26
+Percentage in dataset: 0.5941499085923218
+BG: total number of works 23
+Percentage in dataset: 0.5255941499085923
+BR: total number of works 22
+Percentage in dataset: 0.5027422303473492
+BY: total number of works 21
+Percentage in dataset: 0.47989031078610606
+MY: total number of works 20
+Percentage in dataset: 0.4570383912248629
+MX: total number of works 20
+Percentage in dataset: 0.4570383912248629
+ID: total number of works 19
+Percentage in dataset: 0.43418647166361973
+CZ: total number of works 19
+Percentage in dataset: 0.43418647166361973
+ZA: total number of works 18
+Percentage in dataset: 0.41133455210237657
+AR: total number of works 17
+Percentage in dataset: 0.38848263254113347
+CL: total number of works 17
+Percentage in dataset: 0.38848263254113347
+TH: total number of works 17
+Percentage in dataset: 0.38848263254113347
+NO: total number of works 15
+Percentage in dataset: 0.34277879341864714
+CO: total number of works 15
+Percentage in dataset: 0.34277879341864714
+PH: total number of works 15
+Percentage in dataset: 0.34277879341864714
+IE: total number of works 14
+Percentage in dataset: 0.31992687385740404
+VN: total number of works 13
+Percentage in dataset: 0.2970749542961609
+AE: total number of works 13
+Percentage in dataset: 0.2970749542961609
+BE: total number of works 12
+Percentage in dataset: 0.2742230347349177
+NZ: total number of works 11
+Percentage in dataset: 0.2513711151736746
+TR: total number of works 10
+Percentage in dataset: 0.22851919561243145
+HR: total number of works 9
+Percentage in dataset: 0.20566727605118829
+SK: total number of works 7
+Percentage in dataset: 0.15996343692870202
+MT: total number of works 5
+Percentage in dataset: 0.11425959780621572
+CH: total number of works 3
+Percentage in dataset: 0.06855575868372943
+LT: total number of works 3
+Percentage in dataset: 0.06855575868372943
+CyprusBelarus: total number of works 3
+Percentage in dataset: 0.06855575868372943
+CY: total number of works 3
+Percentage in dataset: 0.06855575868372943
+PK: total number of works 2
+Percentage in dataset: 0.04570383912248629
+PT: total number of works 2
+Percentage in dataset: 0.04570383912248629
+LV: total number of works 2
+Percentage in dataset: 0.04570383912248629
+LU: total number of works 2
+Percentage in dataset: 0.04570383912248629
+UY: total number of works 1
+Percentage in dataset: 0.022851919561243144
+GR: total number of works 1
+Percentage in dataset: 0.022851919561243144
+CR: total number of works 1
+Percentage in dataset: 0.022851919561243144
+IL: total number of works 1
+Percentage in dataset: 0.022851919561243144
+PE: total number of works 1
+Percentage in dataset: 0.022851919561243144
+EG: total number of works 1
+Percentage in dataset: 0.022851919561243144
+Number of works involving multiple countries: 1065
+Distribution of number of genres
+   counts  num_works
+0       1       3311
+1       2        767
+2       3        130
+3       4         23
+4       5        115
+5       6         12
+6       8          2
+7      14          3
+8      33         13
+GENRES VG
+action: total number of works 3066
+Percentage in dataset: 48.34437086092716
+adventure: total number of works 2274
+Percentage in dataset: 35.856196783349105
+indie: total number of works 1649
+Percentage in dataset: 26.00126143172501
+role-playing-games-rpg: total number of works 1633
+Percentage in dataset: 25.74897508672343
+strategy: total number of works 862
+Percentage in dataset: 13.59192683695995
+arcade: total number of works 625
+Percentage in dataset: 9.854935351624093
+shooter: total number of works 593
+Percentage in dataset: 9.35036266162094
+simulation: total number of works 563
+Percentage in dataset: 8.877325764742983
+casual: total number of works 472
+Percentage in dataset: 7.442447177546516
+platformer: total number of works 461
+Percentage in dataset: 7.269000315357932
+puzzle: total number of works 412
+Percentage in dataset: 6.496373383790602
+fighting: total number of works 255
+Percentage in dataset: 4.02081362346263
+racing: total number of works 149
+Percentage in dataset: 2.349416587827184
+massively-multiplayer: total number of works 143
+Percentage in dataset: 2.2548092084515923
+sports: total number of works 87
+Percentage in dataset: 1.3718070009460739
+family: total number of works 65
+Percentage in dataset: 1.0249132765689057
+educational: total number of works 46
+Percentage in dataset: 0.7253232418795332
+card: total number of works 33
+Percentage in dataset: 0.5203405865657522
+board-games: total number of works 24
+Percentage in dataset: 0.3784295175023652
+Mean number of genres per tv show: 2.1147902869757176
+   counts  num_works
+0       1       2310
+1       2       2033
+2       3       1250
+3       4        546
+4       5        147
+5       6         43
+6       7          8
+7       8          2
+8       9          2
+9      19          1
+Genres for the 5 works with the most genres
+                        title                   genre
+2559  dragonagameaboutadragon                  action
+2560  dragonagameaboutadragon               adventure
+2561  dragonagameaboutadragon  role-playing-games-rpg
+2562  dragonagameaboutadragon                strategy
+2563  dragonagameaboutadragon              simulation
+2564  dragonagameaboutadragon                  sports
+2565  dragonagameaboutadragon                  racing
+2566  dragonagameaboutadragon                  casual
+2567  dragonagameaboutadragon                   indie
+4789                    joust                  action
+4790                    joust               adventure
+4791                    joust              simulation
+4792                    joust                  sports
+4793                    joust                  arcade
+4794                    joust                  casual
+4795                    joust   massively-multiplayer
+4796                    joust                   indie
+6605        outtheresomewhere                  action
+6606        outtheresomewhere               adventure
+6607        outtheresomewhere  role-playing-games-rpg
+6608        outtheresomewhere                strategy
+6609        outtheresomewhere              simulation
+6610        outtheresomewhere                  sports
+6611        outtheresomewhere                  racing
+6612        outtheresomewhere                  casual
+6613        outtheresomewhere                   indie
+7736           roadredemption                  action
+7737           roadredemption               adventure
+7738           roadredemption  role-playing-games-rpg
+7739           roadredemption                strategy
+7740           roadredemption                  sports
+7741           roadredemption                  racing
+7742           roadredemption                  casual
+7743           roadredemption                   indie
+7749                   roblox                  action
+7750                   roblox                 shooter
+7751                   roblox               adventure
+7752                   roblox  role-playing-games-rpg
+7753                   roblox                strategy
+7754                   roblox              simulation
+7755                   roblox                  sports
+7756                   roblox                  racing
+7757                   roblox                  arcade
+7758                   roblox             board-games
+7759                   roblox                  casual
+7760                   roblox                    card
+7761                   roblox             educational
+7762                   roblox                  family
+7763                   roblox                fighting
+7764                   roblox   massively-multiplayer
+7765                   roblox                   indie
+7766                   roblox                  puzzle
+7767                   roblox              platformer
+YEARS VG
+    start_year  counts
+0       1971.0       1
+1       1974.0       1
+2       1975.0       2
+3       1976.0       3
+4       1977.0       6
+5       1978.0       3
+6       1979.0       3
+7       1980.0       7
+8       1981.0      19
+9       1982.0      38
+10      1983.0      28
+11      1984.0      25
+12      1985.0      26
+13      1986.0      30
+14      1987.0      57
+15      1988.0      37
+16      1989.0      63
+17      1990.0      82
+18      1991.0      81
+19      1992.0     104
+20      1993.0     137
+21      1994.0     109
+22      1995.0     123
+23      1996.0     117
+24      1997.0     113
+25      1998.0     108
+26      1999.0     131
+27      2000.0     118
+28      2001.0     127
+29      2002.0     115
+30      2003.0     145
+31      2004.0     146
+32      2005.0     145
+33      2006.0     144
+34      2007.0     159
+35      2008.0     172
+36      2009.0     241
+37      2010.0     227
+38      2011.0     230
+39      2012.0     257
+40      2013.0     270
+41      2014.0     317
+42      2015.0     392
+43      2016.0     435
+44      2017.0     447
+45      2018.0     404
+46      2019.0     362
+47      2020.0     283
+48      2021.0     254
