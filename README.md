@@ -3,11 +3,7 @@ BSc Individual Project - Isabel Sebire
 
 The code submission is structured as follows:
 
-* Tropescraper Edits - tropescraper was used to scrape the trope-work relationships from TVTropes. Note that I did *not* write this code (tropescraper is developed by García-Ortega et al, in 
-
-[https://arxiv.org/abs/2006.05380]
-
-), although it is included in the submission as I edited the code to make it suitable to this project.
+* Tropescraper Edits - tropescraper was used to scrape the trope-work relationships from TVTropes. Note that I did *not* write this code (tropescraper is developed by [García-Ortega et al](https://arxiv.org/abs/2006.05380)), although it is included in the submission as I edited the code to make it suitable to this project.
 * Datasets - contains copies of the datasets; code for scraping trope data from TVTropes, IMDb data, and RAWG.io data; and construction of the datasets.
 * Exploratory Statistics - contains files exploring the dataset. The file nestedness_calculator was written by Straka, available at 
 
